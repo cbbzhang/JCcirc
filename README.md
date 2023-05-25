@@ -8,10 +8,12 @@ cFLSeq v1.0.0 (circRNA full-length sequences) is a computational tool that utili
 
 > ### Software Prerequisites:
 >> cFLSeq is implemented in perl under Linux system.
+
 >> A de novo transcript assemlers (one of them)
 * [Trinity](https://github.com/trinityrnaseq/trinityrnaseq)
 * [SPAdes](https://github.com/ablab/spades)
 * [SOAPdenovo-Trans](https://github.com/aquaskyline/SOAPdenovo-Trans)
+* 
 >> Aligner
 * [BWA](https://sourceforge.net/projects/bio-bwa/files/)
 
