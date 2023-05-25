@@ -20,7 +20,7 @@ cFLSeq v1.0.0 (circRNA full-length sequences) is a computational tool that utili
 >> cFLSeq works with six input files. A GTF annotation file, pair-end RNA-seq data, a contig file was generated from Trinity, a genome sequence file, and a circRNA junction list.
 
 >>> Contig file can be obtained by de novo transcript assemblers
->>>> Trinity (trinity/inchworm.DS.fa)(br)<br>
+>>>> Trinity (trinity/inchworm.DS.fa)<br>
 >>>> SPAdes (spades/K31/transcripts.fasta)<br>
 >>>> SOAPdenovo-Trans (SOAP/soap.contig)<br>
 
@@ -30,7 +30,7 @@ cFLSeq v1.0.0 (circRNA full-length sequences) is a computational tool that utili
 
 ```bash
 	Command:
-		-C circ -G genome -F annotation -O out_dir -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa
+	perl circseq.pl -C circ -G genome -F annotation -O out_dir -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa
 	Arguments:
 
     -C, --circ
