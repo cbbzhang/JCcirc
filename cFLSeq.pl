@@ -4,10 +4,10 @@
 Main steps:
 1. Check and record parameters designated by user
 2. Prepare files to process
-3. Find contig sequences that ralated to circRNA
-4. Mapping contig sequence to circRNA sequence!
-5. Obtaining fragments of circRNA full length seqeuence
-6. Obtaining circRNA full length seqeuence
+3. Obtaining junction reads and junction contigs
+4. Mapping junction read sequences and junction contig sequences to the concatenate circRNA genomic sequences
+5. Organizing all the fragments and filtering out low-confidence fragments
+6. Generating alternative splicing circRNA
 7. Output
 =cut
 
@@ -33,18 +33,18 @@ Getopt::Long::GetOptions (
 
 if ( !defined($circ) and !defined($genome) and  !defined($output) and !defined($help) and !defined($gtf) and !defined($thread) and !defined($read1)and !defined($read2)and !defined($contig)) {
   print "Please use the --help or -H option to get usage information.\n";
-### Show help info to user if requested
+### Show help information to user if requested
 } elsif (defined($help)) {
   print "
 Program:  CIRCSeq (circRNA sequence)
 Version:  $version
 
-Usage:    perl circseq.pl -C circ -G genome -F annotation -O circ_contig -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa
+Usage:    perl cFLSeq.pl -C circ -G genome -F annotation -O circ_contig -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa
 
 Arguments:
 
     -C, --circ
-          input circRNA file, which including chromosome，start site, end site, host gene, and junction reads ID (required).
+          input circRNA file, which including chromosome, start site, end site, host gene, and junction reads ID (required).
     -O, --output
           directory of output (required).
     -G, --genome
@@ -79,7 +79,7 @@ Arguments:
   $frag_sort_contig = "$frag_res_directory/fragment_sort_contig.txt";
   $fragment_result_sort = "$frag_res_directory/fragment_sort.txt";
   $fragment_anno = "$frag_res_directory/fragment_anno.txt" if $gtf;
-  $fragment_final = "$frag_res_directory/fragment_final.txt";
+  $fragment_final = "$output/fragment_final.txt";
   $circ_full_seq = "$output/circ_full_seq.fa";
   open FRAGCONTIG, ">", $contig_frag_res or die "cannot write to $contig_frag_res.";
   open FRAGALL, ">", $fragment_result_all or die "cannot write to $fragment_result_all.";
@@ -89,9 +89,9 @@ Arguments:
   open FRAGFINAL, ">", $fragment_final or die "cannot write to $fragment_final.";
   open CIRCSEQ, ">", $circ_full_seq or die "cannot write to $circ_full_seq.";
 
-  ###### First step: Scanning circRNA file, genome and annotation file #####
-  print 		'[', scalar(localtime), "] First step: Scanning genome and annotation file!\n";
-  print 		'[', scalar(localtime), "] Scanning genome file!\n";
+  ###### Step 1: Scanning circRNA information, genome sequences, and annotation information #####
+  print 		'[', scalar(localtime), "] Step 1: Scanning circRNA information, genome sequences, and annotation information.\n";
+  print 		'[', scalar(localtime), "]   Scanning genome sequences.\n";
   my ( $chrom );
   our ( %genome, %gene_exon );
   open GENOME, "$genome" or (print "Can not open $genome!\n" and die);###genome.fa
@@ -100,8 +100,9 @@ Arguments:
     $chrom = $1 and next if $_ =~ />(\S+)/;
     $genome{$chrom} .= $_;
   }
+
   if ($gtf){
-    print 		'[', scalar(localtime), "] Scanning annotation file!\n";
+    print 		'[', scalar(localtime), "]   Scanning annotation information.\n";
     my( @gene_info, $exon, $gene, $intron_start, $intron_end );
 
     open GTF, "$gtf" or (print "Can not open $gtf!\n" and die);
@@ -117,14 +118,14 @@ Arguments:
     }
   }
 
-  print 		'[', scalar(localtime), "] First Step Finished!\n";
-
-  print 		'[', scalar(localtime), "] Second step: Scaning circRNA information!\n";
+  print 		'[', scalar(localtime), "]   Scaning circRNA information.\n";
   our( %circ_to_gene, %junc_exist, %junc_contig_exist );
   my( @circ_info, @junction_reads );
-  my( $in3, $circ_id, $circ_gene );#######$in and $out is file handle
+  my( $in3, $circ_id, $circ_gene, $circ_line );#######$in and $out is file handle
+  
   open $in3,"$circ" or (print "Can not open $circ!\n" and die);
   while(<$in3>){#print $_;
+    $circ_line += 1;
     @circ_info = split /\t/,$_;
     $circ_id = $circ_info[0].":".$circ_info[1]."|".$circ_info[2];
     $circ_to_gene{$circ_id} = $circ_info[3];
@@ -134,8 +135,12 @@ Arguments:
     }
   }
 
+  print 		'[', scalar(localtime), "]   Total circRNA: $circ_line.\n";
+  print 		'[', scalar(localtime), "] Step 1 Finished!\n";
+
   ###### Second step: Extracting junction reads from sequencing data#####
-  print 		'[', scalar(localtime), "] Extracting junction reads from sequencing data and Finding contig sequences that ralated to circRNA!\n";
+  print 		'[', scalar(localtime), "] Step 2: Obtaining junction reads and junction contigs.\n";
+  print 		'[', scalar(localtime), "]   Obtaining junction reads.\n";
   my ($in4, $in5, $in6, $in7, $in8, $in9, $read_id, $count, $contig_id, @map_info, $map_length, $junc_id);
   our (%read_seq, %contig_seq, %read_contig, $read_length);
 
@@ -164,7 +169,7 @@ Arguments:
     $read_id = ();
   }
 
-  print 		'[', scalar(localtime), "] Remapping RNA-Seq read to contig sequences!\n";
+  print 		'[', scalar(localtime), "]   Mapping RNA-Seq data to contig sequences.\n";
 
   if (-s($contig) and -s($read1) and -s($read2)) {
     system "bwa index $contig";
@@ -173,6 +178,7 @@ Arguments:
     print "Please check reads file and contig file!\n" and die;
   }
 
+  print 		'[', scalar(localtime), "]   Obtaining junction contigs.\n";
   open $in6, "$output/read_to_contig.sam" or (print "Can not open $output/read_to_contig.sam" and die);
   while(<$in6>){
     next if $_ =~ /\@SQ/ or $_ =~ /\@PG/;
@@ -194,7 +200,8 @@ Arguments:
       $read_contig{$map_info[0]} .= $map_info[2].",";
     }
   }
-  print 		'[', scalar(localtime), "] Second Step Finished!\n";
+  system "rm $contig\.*";
+  
 
   open $in7, "$contig" or (print "Can not open $contig!\n" and die);##build relationship between contig id and sequences, and delete contig that shorter than read length
   while(<$in7>){
@@ -204,13 +211,15 @@ Arguments:
     $contig_seq{$contig_id} .= $_;
   }
 
-  print 		'[', scalar(localtime), "] Third step: Mapping contig sequences and junction reads to circRNAs sequences!\n";
-  ###Build connnection between circRNAs and contig sequences
+  print 		'[', scalar(localtime), "] Step 2 Finished!\n";
+
+ ###Build connnection between circRNAs and contig sequences
+  print 		'[', scalar(localtime), "] Step 3: Mapping junction read sequences and junction contig sequences to the concatenate circRNA genomic sequences.\n";
   my( @circ_file, @ths, $num, $t );
   our ($circ_row, $circ_number);
   our (%contig_frag);
   @circ_file = &split_circ_file($circ, $thread);
-  print 		'[', scalar(localtime), "] Mapping reads and contigs to circRNAs sequences!\n";
+  
   @ths=();
   for my $circ_part (@circ_file){
     push @ths, threads -> create( \&circ_contig_read, $circ_part, $output );
@@ -219,10 +228,12 @@ Arguments:
     $t -> join();
   }
 
-  print 		'[', scalar(localtime), "] Third Step Finished!\n";
+  print 		'[', scalar(localtime), "] Step 3 Finished!\n";
+  system "rm -rf $output/map";
 
-  print 		'[', scalar(localtime), "] Sorting and filtering fragments of circRNA!\n";
+  print 		'[', scalar(localtime), "] Step 4: Organizing all the fragments and filtering out low-confidence fragments\n";
   ####sort and count fragments
+  print 		'[', scalar(localtime), "]   Organizing all the fragments and related contigs.\n";
   my( %frag_count, %frag_set, %frag_exist, %contig_frag );
   my( @each_circ_frag, @each_info, @fragment_set, @fragment_set_sort, @fragment_new, @fragment_new_sort );
   my( $each_circ, $circ_id, $count, $new_count, $frag, $tmp, $tmp_start, $tmp_end, $frag_start, $frag_end, $fragment_set, $frag_start_new, $new_frag );
@@ -235,7 +246,7 @@ Arguments:
   } else {
     print "$contig_frag_res is empty!" and die;
   }
-  print "Total number: ".$all."\n";
+  #print "Total number: ".$all."\n";
   if (-s($fragment_result_all)) {
     open $in9, "$fragment_result_all" or die;
     while (<$in9>){
@@ -284,10 +295,10 @@ Arguments:
   } else {
     print "$frag_sort_contig is empty!" and die;
   }
+  
+  my $sort_line = `system "wc -l $fragment_result_sort"`;
 
-  system "wc -l $fragment_result_sort";
-
-  if (-s($fragment_result_sort)){
+  if ( -s($fragment_result_sort) ) {
     open SORT, "$fragment_result_sort" or die;
     while(<SORT>){
       chomp;
@@ -477,7 +488,6 @@ Arguments:
         my @frag_anno_contig = ();
         $frag_anno_set = ();
         for my $frag_anno (@fragment_anno) {
-
           @frag_anno_contig = split /\,/, $contig_frag{$circ_id}{$frag_anno};
           delete ($contig_frag{$circ_id}{$frag_anno});
           my @frag_contig = ();
@@ -488,17 +498,13 @@ Arguments:
           for my $contig_id (@frag_contig){
             $contig_frag{$circ_id}{$frag_anno} .= $contig_id.",";
           }
-
           #print $circ_id."\t".$frag_anno."\t".$frag_count{$circ_id}{$frag_anno}."\t".$frag_exon{$last_frag}."\t".$contig_frag{$circ_id}{$frag_anno}."\n";
-
           $frag_anno_set .= $frag_anno."/".$frag_count{$circ_id}{$frag_anno}.",";
           #print $frag_anno_set."\n";
           print FRAGANNO "$circ_id\t$frag_anno\/$frag_count{$circ_id}{$frag_anno}\t$contig_frag{$circ_id}{$frag_anno}\n";
         }
         $fragment_anno_all .= $circ_id."\t".$frag_anno_set."\n";
         #print $circ_id."\t".$frag_anno_set."\n";
-
-
       } else {
         $frag_anno_set = ();
         @fragment = split /,/, $circ_frag[1];
@@ -513,7 +519,6 @@ Arguments:
             $contig_frag{$circ_id}{$fragment} .= $contig_frag{$circ_id}{$frag};
             #print $frag."\t".$contig_frag{$circ_id}{$frag}."\t".$fragment."\t".$contig_frag{$circ_id}{$fragment}."\n";
             delete($contig_frag{$circ_id}{$frag});
-
           }
           if ($frag_count{$circ_id}{$fragment}){
             $frag_count{$circ_id}{$fragment} += $count;
@@ -521,19 +526,19 @@ Arguments:
             $frag_count{$circ_id}{$fragment} = $count;
             push(@fragment_exon, $fragment);
           }
-
           $frag_anno_set .= $fragment."/".$frag_count{$circ_id}{$fragment}.",";
-
         }
         $fragment_anno_all .= $circ_id."\t".$frag_anno_set."\n";
       }
-
     }
   } else {
     print "$fragment_result_sort is empty!" and die;
   }
 
-
+  print 		'[', scalar(localtime), "] Step 4 Finished!\n";
+  print 		'[', scalar(localtime), "] Step 5: Generating alternative splicing circRNA.\n";
+  print 		'[', scalar(localtime), "]   Generating longest circRNA full length sequences.\n";
+  print 		'[', scalar(localtime), "]   Generating alternative splicing circRNA.\n";
   ####delete fragment according frag_count
   my (@fragment_merge, $fragment_result_final);
   if ($fragment_anno_all =~ /\S+/) {
@@ -595,44 +600,25 @@ Arguments:
             #print $circ_id."\t".$tmp."\t".$frag."\n";
             ##part overlap
             #merge two fragments of two fragments both large than 3
-=pos
-            if ((($frag_count{$circ_id}{$tmp} / $frag_count{$circ_id}{$frag}) > 2) and ($frag_count{$circ_id}{$frag} < 3)){
-              $frag_count{$circ_id}{$tmp} += $frag_count{$circ_id}{$tmp};
-              delete($frag_count{$circ_id}{$frag}) unless $tmp eq $frag;
-              $contig_frag{$circ_id}{$tmp} .= $contig_frag{$circ_id}{$frag};
-              delete($contig_frag{$circ_id}{$frag}) unless $tmp eq $frag;
-              $tmp_start = $1 and $tmp_end = $2 if $tmp =~ /(\S+)-(\S+)/;
-            } elsif ((($frag_count{$circ_id}{$frag} / $frag_count{$circ_id}{$tmp}) > 2) and ($frag_count{$circ_id}{$tmp} < 3)){
-              $frag_count{$circ_id}{$frag} += $frag_count{$circ_id}{$frag};
-              delete($frag_count{$circ_id}{$tmp}) unless $tmp eq $frag;
-              $contig_frag{$circ_id}{$frag} .= $contig_frag{$circ_id}{$tmp};
-              delete($contig_frag{$circ_id}{$tmp}) unless $tmp eq $frag;
-              $tmp = $frag and $tmp_start = $1 and $tmp_end = $2 if $frag =~ /(\S+)-(\S+)/;
-              pop(@fragment_merge);
-              push (@fragment_merge, $tmp);
-            } else {
-=cut
-              $new_start = $tmp_start;
-              $new_end = $frag_end;
-              $new_frag = $new_start."-".$new_end;
-              $frag_count{$circ_id}{$new_frag} = $frag_count{$circ_id}{$tmp} + $frag_count{$circ_id}{$frag};
-              delete($frag_count{$circ_id}{$tmp}) unless $tmp eq $new_frag;
-              delete($frag_count{$circ_id}{$frag}) unless $frag eq $new_frag;;
-              $contig_frag{$circ_id}{$new_frag} .= $contig_frag{$circ_id}{$tmp}.$contig_frag{$circ_id}{$frag};
-              delete($contig_frag{$circ_id}{$tmp}) unless $tmp eq $new_frag;;
-              delete($contig_frag{$circ_id}{$frag}) unless $frag eq $new_frag;;
-              $tmp = $new_frag;
-              pop(@fragment_merge);
-              push (@fragment_merge, $tmp);
-              $tmp_start = $1 and $tmp_end = $2 if $tmp =~ /(\S+)-(\S+)/;
-            #}
+            $new_start = $tmp_start;
+            $new_end = $frag_end;
+            $new_frag = $new_start."-".$new_end;
+            $frag_count{$circ_id}{$new_frag} = $frag_count{$circ_id}{$tmp} + $frag_count{$circ_id}{$frag};
+            delete($frag_count{$circ_id}{$tmp}) unless $tmp eq $new_frag;
+            delete($frag_count{$circ_id}{$frag}) unless $frag eq $new_frag;;
+            $contig_frag{$circ_id}{$new_frag} .= $contig_frag{$circ_id}{$tmp}.$contig_frag{$circ_id}{$frag};
+            delete($contig_frag{$circ_id}{$tmp}) unless $tmp eq $new_frag;;
+            delete($contig_frag{$circ_id}{$frag}) unless $frag eq $new_frag;;
+            $tmp = $new_frag;
+            pop(@fragment_merge);
+            push (@fragment_merge, $tmp);
+            $tmp_start = $1 and $tmp_end = $2 if $tmp =~ /(\S+)-(\S+)/;
           } else {
             $tmp = $frag;
             push (@fragment_merge, $tmp);
             $tmp_start = $1 and $tmp_end = $2 if $tmp =~ /(\S+)-(\S+)/;
           }
         }
-
       }
 
       ###delete fragment that was support count less than average - 1, delete if (frag_count < average - 1)
@@ -665,7 +651,7 @@ Arguments:
       my( $frag_num, %frag_contig, $isoform1, $isoform2, $i, $j, $one_count, $count, $tmp_frag, $fragment_result );
       $frag_num =  scalar(@frag_del_new);
 
-      ###output longest circRNA full length sequences
+
       $fragment_result = ();
       $circ_start = $2 and $circ_end = $3 if $circ_id =~ /(\S+)\:(\S+)\|(\S+)/;
       for my $frag (@frag_del_new) {
@@ -695,6 +681,7 @@ Arguments:
       #next if (($one_count * 2) > $frag_num) or (($one_count * 2) == $frag_num);####delete circRNA if more than half fragments count is 1.
       $fragment_result_final .= $circ_id."\t".$fragment_result."\n";
 
+      
       ##if fragment counts bigger than 2, considering alternative splicing
       if ($frag_num > 2) {
         ##generating all possibility isoforms
@@ -730,7 +717,6 @@ Arguments:
           my @fragments = split /,/, $isoform;
           push (@fragments, $first_frag) unless $first_frag ~~ @fragments;
           push (@fragments, $last_frag) unless $last_frag ~~ @fragments;
-
           @fragments_sort = &sort_frag(@fragments);
           for (@fragments_sort){
             $isoform_new .= $_."\/".$frag_count{$circ_id}{$_}.",";
@@ -743,7 +729,8 @@ Arguments:
           #fragments count is even
           for $i (1 .. ($frag_num/2 - 1)) {
             $j = ($frag_num - 1) - $i;
-            #小于对应的fragment 3及以上，小于左右两个fragment
+            ##fragment_i matched fragment_j
+            #fragment_i_coverage - fragment_j_coverage =< 3, fragment_i_coverage < fragment_i-1_coverage, and fragment_i_coverage < fragment_i+1_coverage, delete fragment i
             if (($frag_count{$circ_id}{$frag_del_new[$i]} - $frag_count{$circ_id}{$frag_del_new[$j]}) > 2) {
               if ($frag_count{$circ_id}{$frag_del_new[$j]} < $frag_count{$circ_id}{$frag_del_new[$j-1]}) {
                 if ($frag_count{$circ_id}{$frag_del_new[$j]} < $frag_count{$circ_id}{$frag_del_new[$j+1]}) {
@@ -781,7 +768,8 @@ Arguments:
               next;
             }
           }
-          ##odd 中间的小于两边翻倍
+          ######odd number
+          ###coverage_median < (coverage_median-1)/2 and coverage_median < (coverage_median+1)/2, we exclude fragment median in circRNA isoforms
           $median = int($frag_num/2) + 1;
           if (($frag_count{$circ_id}{$frag_del_new[$median]} * 2) <  $frag_count{$circ_id}{$frag_del_new[$median + 1]}) {
             if (($frag_count{$circ_id}{$frag_del_new[$median]} * 2) <  $frag_count{$circ_id}{$frag_del_new[$median - 1]}) {
@@ -808,9 +796,10 @@ Arguments:
     print "Not find any result!" and die;
   }
 
-  my ($circ_seq);
+  my ($circ_seq, $final_line);
   my @all_res = split /\n/, $fragment_result_final;
   for (@all_res) {
+    $final_line += 1;
     my $line = &merge_fragment($_);
     my $total_length = &total_length($line);
     next if $total_length > 5000;
@@ -818,7 +807,11 @@ Arguments:
     $circ_seq = &get_seq($line);
     print CIRCSEQ "$circ_seq";
   }
-  print 		'[', scalar(localtime), "] Forth Step Finished!\n";
+  
+  print 		'[', scalar(localtime), "] Step 5 Finished!\n";
+
+  print 		'[', scalar(localtime), "]   Total circRNA isoforms: $final_line.\n";
+
   print 		'[', scalar(localtime), "] Program Finished ^v^!\n";
 
   sub circ_contig_read {
@@ -827,7 +820,7 @@ Arguments:
     my ( $out1, $out2, $contig_info, $junc_read, $junc_read_id, $contig_id_set, $junc_read_contig_seq, $map_res_directory, $sam, $num );
     $map_res_directory = "$output/map";
     mkdir( $map_res_directory ) or die "can not make a new output directory" unless (-e $map_res_directory);
-    print 		'[', scalar(localtime), "] Start processing $circ_split!\n";
+    print 		'[', scalar(localtime), "]   Start processing $circ_split!\n";
     open FILE2, "$circ_split" or die;
     while( <FILE2> ){
       next if $_ =~ /start/;
@@ -879,7 +872,7 @@ Arguments:
       &read_sam($sam) and $num += 1 if -s($sam);
       system "rm $map_res_directory/$circ_name*";
     }
-    print 		'[', scalar(localtime), "] Complete the alignment of $num circRNAs in $circ_split !\n";
+    print 		'[', scalar(localtime), "]   Completing the alignment of $num circRNAs in $circ_split !\n";
   }
 
   sub split_circ_file {
@@ -901,7 +894,7 @@ Arguments:
       push(@split_circ, $circ);
     }
     if ($n >= 2) {
-      print 		'[', scalar(localtime), "] Requesting system to split circRNA into $n pieces!\n";
+      print 		'[', scalar(localtime), "]   Requesting system to split circRNA into $n pieces.\n";
       $input_dir = $output;
       if ($circ_row < 1){
         print "Fail to get file row number for $circ.\nFatal error. Aborted.\n";
@@ -919,9 +912,9 @@ Arguments:
           print "Fail to calculate divided file row number, total file row number $circ_row, thread $n.\nFatal error. Aborted.\n";
           die "Fail to calculate divided file row number, total file row number $circ_row, thread $n: $!";
       }
-
-      system "split -l $division $circ $input_dir/$circ_raw";
-      @split_circ = <$input_dir/$circ_raw*>;
+      mkdir "$input_dir/split_circ";
+      system "split -l $division $circ $input_dir/split_circ/$circ_raw";
+      @split_circ = <$input_dir/split_circ/$circ_raw*>;
       my $n2 = 0;
       for my $part (@split_circ) {
         if ($part =~ /$circ_raw[a-z]+$/){
@@ -929,10 +922,10 @@ Arguments:
         }
       }
       if ($n2 == $n){
-        print 		'[', scalar(localtime), "] circRNA was divided successfully.\n";
+        print 		'[', scalar(localtime), "]   circRNA was divided successfully.\n";
       } else {
-        print "Cannot split $circ into $n ($n2) pieces with row of $division and named them as $input_dir/$circ_raw.\nFatal error. Aborted.\n";
-        die "Cannot split $circ into $n ($n2) pieces with row of $division and named them as $input_dir/$circ_raw: $!";
+        print "Cannot split $circ into $n ($n2) pieces with row of $division and named them as $input_dir/split_circ/$circ_raw.\nFatal error. Aborted.\n";
+        die "Cannot split $circ into $n ($n2) pieces with row of $division and named them as $input_dir/split_circ/$circ_raw: $!";
       }
     }
     return @split_circ;
