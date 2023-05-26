@@ -1,0 +1,1252 @@
+@simulate:1/2 length=150
+TTCCGAGGTTACATGCTGTGGTTCTAGGTCCAGACATGCTCTTTGTGGTCTGCTCTTGCAGCCCTCTTGAGAAGGGCTGTGTATCTCCAAACCACCTCACAGAGGTGGAGCGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:2/2 length=150
+TAACATCCTAAACTCCAGCTCTGAATGTCTGTCTCCTGCTCTGAATCTTCAGTGACTTCGAAACTCAAGTCAGGACACCTCTCAGTTTGGCCTCACTGCTCAAGATTGAGCTGAATTCATGACCATAATTCAAGCATTAAGATTCATGGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:3/2 length=150
+GCACATAAGCCACGAGGAGGAGCTTTACCACTTCCCGGTCTTCGGCGCCGGGCGCAGAAAGGGCCAGACTCTGCGCTAGCAGGCGCTGCGCGCCAACCGGCCGGCACCTGTCGCAGAAGGTGCAACCGATCGCACTGTCACGCAGAAGCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:4/2 length=150
+TTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCAGCAAAGTTACCTCCAGGCTCAGATGAGGCGAGTGGGCGGCCGGGGCTGCAGCTGGCGCTGGCCATTGAGGAGCTTCTGCGCGACAGTGCGATCGGATG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:5/2 length=150
+GGGTGTTCTCGATAGGTAACTTTCTTATAGATGATGAAACGCAGGTATGACTCAGCCTTGTGGAAATTTTCAGGACTTAAGTAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAACCACCTCTCAGAGGTGGAGCGAGGGAACT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:6/2 length=150
+ACATTTTTAAAAGGTATGTATTTGAGAAACATAAAAACACAACAGAACATTTCATAGGCCACTTTACACAATAAAATAGGCAATGATAACAGGTATTTTTGCATAAACACTGAGGTAACTAACGACGGCGGCATGGGTGTAGCAGTTATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:7/2 length=150
+AGGTAACTTTGCTGAACTTGTGAAGAGTGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGCTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGACCCTGCTTGGAAGGCAGCAATCAACAGAGATGCACAGACCTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:8/2 length=150
+TTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAAAAATCTCCTTATCATCTACCTGGTAATATGAAAAACATATAGCTTTCATTCATTCCTTTCAACTGATGAGGAAACTGAGGCATTGGGAGTTAGTAAAAGTCCACATTGAGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:9/2 length=150
+AAAACTTATGTCCTGCATATCATGGACATTTGATGAATGCTTATTCAGTTGACAGGTGTAGACTTCAATAATAACCTGTTCAATGCATTATGCCAGATGAATCTTGCATCTCAAAAGTAGAACAAATATTGTTCTTTCAGTTTTGTCTCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:10/2 length=150
+ACCTGGCTCACCACCACCCCCTTCCTTCCTTCCCACCGGGCTGCCCTCTCACCTGCATTTCCTGTGGTCTAGGGAACTGAAACGACATGAGCAGCATTTCAGGACGTCCCCCTTAAAACCCGCTCCTCTGTTCTTATCCACATGGCTTAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:11/2 length=150
+TCCAGAGTGTATAACTAATGTAACCCAAGAGTGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAATCAAGGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAATGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:12/2 length=150
+CGTTCATCAGGGTCGGGGTTCATCAGTTTACCACACCGCGGTCATCTGACGTTCATAAGGGTCGGGGTTCATCAGTTTACCACACGGCGGTCATCTCATGTTGATCAGGGTCAGGGTTCATCAGTTTAGCACACGGCGGTCATCTCATGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:13/2 length=150
+ACCGAAGTGCATGGAAGAGGAAAGGAAACCTTTGTTGCCTATTCATGTGTTATTTCCAGGTCTCGACACACCACTCCCCACTGCCTCCCTTCGTAGCTCCTCTGGTTCCCATGTGAGTCCCTCCCTTTGCATCCACACGATGCACTGGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:14/2 length=150
+GTGTCTCCGCCGGTTGAAAGCGCGTGTCTGCGTCGGGTTCTGTTGGAGTGCGTTCGGTGCGCCGTGGGTCCGCGCTGCTTCCACGCAACTTCCTGTTAGtttAtctcctgtcaTaatggcaCgatctcggctcaGtgcgacctctgcttc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:15/2 length=150
+ATTATGTCCTTTAGACTAATAAAATTCCTCCAAACCAAATACAGCACCTACTGTGAAGACACAAAGATACTTTTAGAATAGTAAAAACATTATCCATTGAGAAATTCCTTAATGAAACAGTACCCAAGAAGTCATTTGCCAGCAGATTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:16/2 length=150
+CACGCAGTGGATGGAAGATGCCATTGAAGGAGCTCTTAAGTCCTCTCCAAGCCTCGCTATTTGTGATGTGATCATGGCAGTGAAGGGACACGGCTCTGGAGTGCTGGGCTCCGTTTGCTCTGCACTCACCCTGCCATCTGGATGGGGTTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:17/2 length=150
+AGGAGGAGCACTGAAGGAACACTTTTCCAGTATGCATTCTTTCCAGCTCCGAGAAGCTGGAGGCACACGGATCCCTCGGCCAGCTCTCATCTATGGACGTGCTGTAGTCACAAGGACTGTGACTAAGCCTCAGTCCCTGAGGACTGTCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:18/2 length=150
+GTCTTGAACTGCTGACCTCCTGACCCACTCACCTCAGCCTCCCAAAGTGCTGGGATTATAGGTGTGAGCCACCATGCCTGGCAAAATATTATTTTTTTAAATGAATTGTTTCTCTTAGTCTGCTTTGTTAAATTTGGAATTCATCTGGGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:19/2 length=150
+GTTTTAATTAAAAGAAGGAAGGTGCTGTAACCAACTATAAACAAATAAAGGCTTAAACACAATGGAAGTTTATTTCTCACTAAAGGAACCTCCAAATCCATGATACTTTAAGTCAGGGACCCAGGTTCCTCCCATCTATGGTTCTGCCAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:20/2 length=150
+GTTGTCCCTCCTGGAATCCGTTGGCTTGCCTCCGGCATTTTTGGCCCTTGCCTTTtagggttgccagattaaaCgacaggatgcccagctagtttgaattttagataaacaacgaataatttTgtagcataaatatgtcccaagcttagt
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:21/2 length=150
+TTGGCAACATGTTATTCAGGTACAAAAAGATTTGGACTGTAACTTAAAAATGATCAAATTATGTTTCCCATGCATCAGGTGCAATGGGAAGCTCTTCTGGAGAGTGAGAGAAGCTTCCAGTAAAGGTGACATTGAAGCCAAGTCCTGAAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:22/2 length=150
+CCGGGCGGGATGTATCCGGCTGCTGAGCTGGCAGTTCTGTGTCGCTAGGTTTCGGCCCGGCCGCCGCCGCAGATAAGCCACGAGGAGGAGCTTTACGACTTCCCGGTCTTCGGCACCGGGCGCAGCAAGGGCCAGACTCTGCGCTAGCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:23/2 length=150
+ACAACCCCCAAGGGACCACCTTGTGGCATCCTCAGCAACCACAGAGCCACAGGGCAGATGAGTGTTTGCTCCCACTGAGGCTCTGCAACCTCTGCCACCAATACTGGAGAAATCCTCCAACCTCACTGTTTTCTCCTGAACTTGTTCCAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:24/2 length=150
+ACAGTGGAAGAAGTAGCTAGTAGAAAACAGGAATTTCATACAAAATAGAATTCCACAAAAGCCTTATTGCATTAATGTTACCCATTTGGCAGAAATTTTTATATTGGGCCACACTCAAAAAGAAGGGATCTTAGCCATATATTCCATTTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:25/2 length=150
+ATTAATAGAATACCGTTTCTTCAAAGAGCTCTCTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTCAGGTGTTGCAGCTCCCAGGCCCTTTCCGTGAACAGAGTACAACAACTGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:26/2 length=150
+TAAGTTGTCCGTAATGTCACGCAGTATTATTAGAATACCGTTTCTTCAAAGAGCTCTGTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGTTCCAGGTAGCAGTTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTCCCAGGCCCTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:27/2 length=150
+AATCCTCTCAGTTGTTGTActctgttcacggaaaTggcctgggagctgcaacacctcaacagcaacaagcacacctgctacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaagaaacgGTATTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:28/2 length=150
+CACTGCAAGACAATCCTCTCAGTTGTTGTActctgttcacggaaagggcctgggagctgcaacacctcaacagcaacaagcacaATtgctacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaaga
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:29/2 length=150
+aaacagagctctttgaagaaacgGTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTACAACTGCAAGACAATCCTCTCAGTTGTTGTActctgttcacggCaagggcctgggag
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:30/2 length=150
+tCgtttctCaaaaccatcctcctctaaaaTgaaacagagctctttgaagaaacgGTCTTCTAATAATACAGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGACCCGCAAGACAATCCTCTCAGTTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:31/2 length=150
+CTGAGAGGATTGTCTTGCAGTTCTACTAAATAAGTTGATTTTCCATAATTTAGGCTAAGTTGTCCGTACTGTCACACAGTATTATTAGAATACCGTTTCTTCAAAGAGTTCTGTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:32/2 length=150
+TTGTCCGTAATGTCACGAAGTATTATTAGAATACCGTTTCTTCAAAGAACTCTGTTTCCTTTTAGAGGAGGTTGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCTGCTCCCAGGCCCTTTCCGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:33/2 length=150
+TCTTCAAAGAGCTCTGTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTCCCAGGCCCTTTCCGTGAACAGAGTACAACAACTGAGAGGATTGTCTTGCAGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:34/2 length=150
+TTAGAGGAGGATGGTTTTTAGAAACAAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTCCCAGGCCCTTTCCGTGAACAGAGTACAACAACTGAGAGGATTGTCTTGCAGTTCTACTAAATAATTTGATTTTTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:35/2 length=150
+GTGACATTACGGACAACTAAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTActctgttcacggaaagggcctgggagAtgcaacacctcaacagcaacaagcacacctgctacctaga
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:36/2 length=150
+cCgcaacacctcaacagcaacGagcacacctgctacctagaacttggtttctaaaaaccatGctcctctaaaaggaaacagagctctttgaagaaacgGTATTGTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:37/2 length=150
+GTTGTTGTActcAgttcacgTaaagggcctgggagctgcaacacctcaacagcaacaagcacacctgctacctagaacttggtttctaaaaaccatcctGctctaaaaggaaacagagctctttgaagaaacgGTATTCTAATAATACTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:38/2 length=150
+aaggaaacagagctctttgaagaaacgGTATTCTAATAATACTGCGTGACATTATGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTActctgttcacCgaaagggcctg
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:39/2 length=150
+TGTActctgttcacggaaagggcctCggagctgcaacacctcaacagcaacaagcacacctgctacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaagaaacgGTATTCTAATAATACTGCGTGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:40/2 length=150
+ctttgaagaaacgGTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTActctgttcacggaaagggcctgggagctgcaacacc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:41/2 length=150
+ACAGAGTACAACAACTGAGAGGATTGTCTTGCAGTTCTACTAAATAATTTGATTTTCCATAATTTAGGCTAAGTTGTCCGTAATGTCACGCAGTATTATTAGAATACCGTTTCATCCAAGAGCTCTGTTTCCTTTTAGAGGAGGATGGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:42/2 length=150
+ATTTTGGCTAAGTTGTCCGTAATGTCACGCAGTATTATTAGAATACCGTTTCTTCAAAGAGCTCTGTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCCCCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:43/2 length=150
+TGAAGTTCCAAGAAGTTCCAGGTAATGTGAGTACAGGAGGCCCAAGGACTTCCCCGTGAGTAGCAAGTCTCTAACGCAGCATCTCTGCTTATCGTCAGAGAGGTGCACAGGCTGATTCTGCAGGCCTCTCCTGGCTGACGGTGGCCTTGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:44/2 length=150
+TATTCATGCCTCCTTTACAGAGTAGAAAACAGAGGCTCACAATGCTGAGAGAGTTGCCCAAGGTGACACGCTAACCTGTGCTTCCCAGGCCTGTGTGTCACCGAGGGTCTTACCACAATAAAGATTTTGATTCAGTCCGTCTGGGTTGGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:45/2 length=150
+AACTGATGTACCCTGACCCTGATCAACATGAGATGACCGGCGTGTGGTAAACTGATGAACCCCGACCCTGATGAACGTGAGATGACCGCCGTGTGGTAAACTGATGAACCCCGACCCTGATGAACGTGAGATGACCGCCGTGTGGTAAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:46/2 length=150
+GCTACTTGGGAGCCTGAGGCAGGAGTATCCTTGAACCCAGGAAGCAGAGGTCGCAGTGAGCCGAGATCATGCCATTGTGACAGGAGAGAAATGCACCTGCTCCGGCAACTTTCATGACTCAGCCCAGAGGAAGAAGCCGAGCGCGATTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:47/2 length=150
+TCGACAACACACTGGGGTACTTACTGGCTGGCCTATGTCCTGGGTCGTCCAAGAGCAATAATTGTTCACAATGACAGGTCAACTCACCTCCAGAGTGTATAACTAATGCAACCTGTAATCCCAGCTACTTGGGAGGCTGAGGCAGGAGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:48/2 length=150
+GTCATGAAAGTTGCCGGAGCAGGTGCAtttctctcTtgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTACATTAGTTATACACTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:49/2 length=150
+AAAGTTGCCGGAGCAGGTGCAAttctctcctgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTACATTAGTTATACACTCTGGAGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:50/2 length=150
+GCGCGATTCTCCAACACACTGGGGTACGTACTGGCTGGCCTATGTCCTGGGTCGTCCAAGAGCAATAATTGTTCACAATGACAGGTCAAGTCGCCTCCAGAGTGTATAACTAATGTAACCTGTAATCCCAGCTACTTGGGAGGCTGAGGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:51/2 length=150
+CAGTGAGCCGAGATCATGCCATTGTGACAGGAGAGAAATGCACCTGCTCCGGCCACTTTCATGACTCAGCACAGAGGAAGAAGCCGAGCGCGATTCTCCAACACACTGGGGTACGAACTGGCTGGCCTATGTCCTGGGTCGTCCAAGAGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:52/2 length=150
+CAGTCAGTACGTACCCCAGTGTGTTGGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTGCCGGAGCAGGTGCAtttctctcctgtcacaatggcatgatctcggctcactgcgacAtctgcttcctgggttcaagga
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:53/2 length=150
+AGTCACCTCCAGAGTGTATAACTAATATAACCTGTAATCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATCCTTGAACCCAGGAAGCAGAGGTCGCAGTGAGCCGAGATCATGCCATTGTGACAGGAGAGAAATGCACCTGCTCCGGCAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:54/2 length=150
+ctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACTATTATTGCTCTTGTACGACCCATGACATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:55/2 length=150
+GACGACCCAGGACATAGACCAGCCAGTACGTACCCCAGTGTGTTGGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTGCCGGAGCAGGTGCAtttctctcGtgtcacaatggcatgatctcggctcactgcgacctc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:56/2 length=150
+CATTAGTTATACACTCTGGAGGTGAATTGACCTGTCATTGTGAACAATTATTGCCCTTGGACGACCCAGGAGATAGGCCAGCCAGTACGTACCCCAGTGTGTTGGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:57/2 length=150
+TGTGTTGGAGAATCGCGCTTGGCTTCTTCCTCTGTGCTGAGTCTTGAAAGTTGCCGGAGCAGGTGCAtttGActcctgtcacaCtggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:58/2 length=150
+TACATTAGTTATACACGCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGGTCTTGGACGACCCAGGACATAGACCAGCCAGTAGGGACCCCAGTGTGTTGGAGATTCGCGCTCGGCTTCTTCCTCTGTGCTGAGCCGTGAAAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:59/2 length=150
+tgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGGACATAGGCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:60/2 length=150
+GCCATTGTGACAGGAGAGAAATGCACCTGCTCCGGCAACTTTCATGACTCAGCACAGAGGAAGAAGCCGAGCGCGATTCTCCAACACACTGGGGTACGTACTGGCTGGCCTATGTCCTGGGTCGTCCAAGCGCAATAATTGTTCACAATG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:61/2 length=150
+TAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGTCGACCCAGGACATAGGCCAGCCAGTACGTACCCCAGTGTGTTTGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTGCCG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:62/2 length=150
+ctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:63/2 length=150
+CTCACATTCATCAGGGTCGGGGTTCATCAGTTTACCATACGGCGGTCACCTCACGTTCATCAGGGTCGGGGTTCATCAGTTTACCACACGGCGGTCATCTCATGTTGATCAGGGTCAGGGCTCATCAGTTTACCACACGGCTGTCATCTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:64/2 length=150
+CACCTCCAGAGTGTATAACTAATGTAACCCAAGAGTGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAACCAAGGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:65/2 length=150
+TTAAAATCCTACCGTTGAGTGCCTGCCTTGGATCAGCAGTCAGTTCGTTACCTTGGTTCTCAGACGATGCTTGCAACAACGCCATGAGATTCGCCCACTCTTGGGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:66/2 length=150
+AAAGTTGCCGGAGCAGGTACAGTTACACAACCTCCAGGAATCTCACCAGTGCCACGCGTTTGTGAAAAGCTGTGAATATTCAGTGCCACAGAGTTAAACCTCGGTACAGAAGCGAGACCCTGCTGGGCAGAGAAAGGGTGACCTGGAAGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:67/2 length=150
+AATGATGGAAACTGGACTGTGATTCTTGAGGCCATGACAATCACAGGGGCCCATGGGCGGGGCCCTCACACACGTTCCACGTCACCCTTTCTCTGCCCAGCAGGGTCTCGCTTCTCTACCGAGGTTTAACCCTGTGGCACTGAATATTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:68/2 length=150
+TCGTTACCTTGGTTCTCAGACGATGCTTCCAACAACGCCATGCGATTCGTCCACTCTTGGGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTTATTGTGAACAATTATTGCTCTTGGACGACCCGGGACATAGGCCAGCCAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:69/2 length=150
+GAGTCTTGAGGCCATGACCAGCACAGGGGGCCATGGGCGGGGCCCTCACACACCTTCCAGGTCACCCTTTCTCTGCCCAGCATGGTCTCGCTTCTGTACGGAGGTTTAACCCTGTGGCACTGAATATTCACAGCTTTTCACAAACGCGTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:70/2 length=150
+CCAAGGTAACGAACTGACTGCTGATACAAGGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGTGAATGAAGAACTCCACAGAAGATAATGATAGAAACTGGACTGTGATTCTTGAGGCCATGACCATCACAGGGGCCCATGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:71/2 length=150
+GAGGTGATTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGGACATAGGCCAGCCAGGACGTACCCCAGTGTGCTGGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTGCCGGAGCAGGTGCAGTTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:72/2 length=150
+AGGTCCACAGATGTGGGAATGAAGAACTCTATTGAAGATAATGATGTAAACTGGACTGTGATTCTTGCGTCCATGACCATAACAGGGGCCCATGGGCGGGGCCCTCACACACCTTCGAGGTCACCCTTTCTCTGCCCAGCAGCGTCTCGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:73/2 length=150
+TGAGTCATGAAAGTTGCCGGAGCAGGTGCAGTTACACAACCTCCAGGAATCTCACCAGTGACACGCGTTTGTGAAAAGCTGTGAATATTCAGTGCCACAGGGTTAAACCTCGGTACAGAAGCGAGACCCTGCTGGGCAGAGAAAGCGGGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:74/2 length=150
+CAGGGTTAAACCTCGGTACAGAAGCGAGACCCTGCTGGGCAGAGAAAGGGTGACCTGGAAGGTGTGTGAGGGCCCCGCCCATGGGCCCCTGTGATGGTCATGGCCTCAAGAATCACAGTCCAGTTTCCATCATTATCTTCTATGGAGTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:75/2 length=150
+TTATACACTCTGGCGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGGACATAGGCCAGCCAGTACGTACCGCAGTGTGTTGGAGAATCGCGCTCGGCTTCTTCCTCTGTGCTGAGTCATGAAAGTTGCCGGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:76/2 length=150
+ACACCTTCCAGGTCACCCTTTCTCTGCCCAGCAGGGTCTCGCTTCTGTACCGAGGTTTAACCCTGTGGCACTGAATCTTCACAGCTTTTCACAAACGCGTGTCACTGGTGAGATTCCTGGAGTTTGTGTAACTGCACCTGCTCCGGCAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:77/2 length=150
+TCCTACCGTTGAGTGCCTGCCTTGGATCAGAAGTCAGTTCGTTACCTTGGTTCTCAGACGAGGCTTACAACAACGCCATGCGATTCGCCCACTCTTGGGTTACATTAGTTATACATTCTGGAGGTGACTTGACCTATCATTGTGAACAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:78/2 length=150
+CGGGGCCCTCACACACCTTCCAGGTCACCCTTTCTCTGCCCAGCAGAGTCTCGCTTCTGTACCGAGGTTTAACCCTGTGCCACTGAATCTTCACAGCTTTTCACAAACGCGTGTCACTGGTGAGATTCCTGGAGGTTGTGTAACTGCACC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:79/2 length=150
+TGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAACCAAGGTAACGAACTGACTGCTGATCCAATGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAATGAAGAACTCCATAGAAGATAATGAAGGAAACTGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:80/2 length=150
+CCTGCCTTGGATCAGCAGTCAGTTCGTTACCTTGGTTCTCAGACGATGCTTGCAACAACGCCATGCGATTCCCCCACTCTTGGGTTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:81/2 length=150
+ACCAGTGACACGCGTTTGTGAAAAGCTGTGAATAATCAGTGCCACAGGGTTAAACCTTGGAACAGAAGCGAGACCCTGCTGGGCAGAGAAAGGGTGACCTGGAATGTGTGTGAGGGCCCCGCCCATGGGCCCCTGTGATGGTCATGGCCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:82/2 length=150
+GGTTAAACCTCGGTACAGAAGCGAGACCCTGCTGGGCAGAGAAAGGGTGACCTGGAAGGTGTGTAAGGGCCCCGCCCATGGGCCCCTGTGATGGTCATGGCCTCAAGAATCCCCGTCCAGTTTCCATCATTATCTTCTATGGAGTTCTAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:83/2 length=150
+GAGGTTTAACCCTGTGGCACTGAATATTCACAGCTTTTCACAAACGCGTGACACTGGTGAGATTCCTGGAGGTTGTGTAACTGCACCTGCTCCGGCAACTTTGATAACTCAGCACAGAGGAAGAAGCCGAGCGCGATTCTCCAACACACT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:84/2 length=150
+AACCTCCAGGAGTCTCACCAGTGACACGCGTTTGTGAAAAGCTGTGAATATTCAGTGCCACAGGGTTAAACCTCGGTACAGAAGCGAGATCCTGCTGGGCAGAGAAAGGGTGACCTGGAATGTGTGTGAGGGCCCCGCCCATGGGCCCCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:85/2 length=150
+TACCGTTGAGTGCCTGCCTTGGATCCGCAGTCAGTTCGTTACCTTGGTTATCAGACGATGCTTGCAACAACGCCTTGCGATTCGCCCACTCTTGGGTTACATTAGTTATACACTCTGGAGGCGACTTGACCTGTCATTGTGAACAATTAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:86/2 length=150
+ACGCCATGCGATTCGCCCACTCTTGGATTACATTAGTTATACACTCTGGAGGTGACTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGGACATAGGCCAGCTAGTACGTACCCCAGTGTGTTGGAGAATCGCGCTCGGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:87/2 length=150
+AAGATAATGATGGAAACTGGACTGTGATTCTTGAGGCCATGCCCATCACAGGGGCCCATGGGCGGGGCCCTCACACACCTTCCAGGTCACCCTTGCTCTGCCCATCAGGGTCTCGCTTCTGGACCGAGGTTTAACCCTGTGGCACTGAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:88/2 length=150
+CCTCTGTGCTGAGTCATGAAAGTTGCCGGAGCAGGTGCAGTTACACAACCTCCAGGAATCTCACCAGTGACACGCGTTTGTGAAAAGCTGTGAATATTCAGTGCCACAGGGTTAAACCTCGGTACAGAAGCGAGACCCTGCTGGGCAGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:89/2 length=150
+CTGCCCAGCAGGGTCTCGCTTCTGTACCGAGGTTTAACCCTGTGGCACTGAATATTCACAGCATTTCACAAACGCGAGTCACTGGTGAGATTCCTGGAGGTTGTGTAACTGCACCTGCTCCGGCAAATTTCATGACTCAGCACAGAGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:90/2 length=150
+GCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAATGAAGAACTCCATAGAAGATAATGATGGAAACTGGACTGTGATTCTTGAGGCCATGACCATCACAGGGGCCCATGGGCGGGGCCCTCACACACCTTCCAAGCCACCCTTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:91/2 length=150
+AGAGCAATAATTGTTCACAAAGACAGGTCAAGTCACCTCCAGAGTGTATAACTAATGTAACCCAAGAGTGGGCGAATCGCATGGCGTTGTGGCAAGCATCGTCTGAGAACCAAGGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:92/2 length=150
+AGGCCATGACCATCACAGGGGCCCATGGGCGGGGCCCTCACACACCTTCCAGGTCACCCTTTCTCTGCCCAGCAGGGTCTCGCTTCTGTACCGAGGTTTAACCCTGTGGCACTGAATATTCACAGCTTTTCACAAACGCGTGTCACTGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:93/2 length=150
+CACAGAGGAAGAAGCCGAGCGCGATTCTCCAACACACTGGAGTACGTACTGGCTGGCCTATGTCCTCGTTCGTCCAAGAGCAATAATTGTTCACAATGACAGGTCAAGTCCCCTCCAGAGTGTAGAACTAATGTAACCCAAGAGTGGGCG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:94/2 length=150
+GTTCACAATGACAGGTCAACTCACCTCCAGAGTGTATAACTAATGTAACCCAAGAGTGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAACCAAGGTAACGAGCTGACTGCTGATCCAAGGCAGGCACTCAACAGTAGGATTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:95/2 length=150
+GACAGCCATGCAACAATGCAGCCCTTTTGCTTACTGAGCTCACCAGTCCCCTCGCACCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagctctgttcacggaaagggcctgTgagctgcaacacctcaa
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:96/2 length=150
+GAGCTCTGTTTCCTTTTAGAGGAGGCTGGTTTTTAGAAACCAAGTTCTACGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTTCCGGGGCCTTTCCGTGAACAGAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:97/2 length=150
+TTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGGGTTGCAGCTCCCAGGCCCTTTCCGTGAACAGAGCTTGCAGCCCTCTTGAGAAGGGCTGTGATTCTCCAAACCACCTCTCAGAGGTGGAGCGAGGGAACTGGTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:98/2 length=150
+acgCAGAAGGAAAGCATGAGCAAATTACTTTTTAGAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:99/2 length=150
+ACCAGTTCCCTCGCTCCACCTATGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagctctgttcacggaaagggcctgggagctgcaacaccCcaacagcaacaagcacacctgctacctagaacttggtttctaaa
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:100/2 length=150
+CACCAGTTCCCTCGCTCCAGCTCTGAGAGTTGGTTTGGAGAAACACAGCCCTTCTCAATAGGGATGcaagctctgttcacggaaagggcctgggagctgcaacacctcaacagcaacaagcacacctgctacctagaacttggtttctaa
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:101/2 length=150
+GGCTGAATTGTTGCATGGCTGTCCCGGCACCCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:102/2 length=150
+GCCCTTTCCGTGAACAGAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAAACACCTCTCAGAGGTGGTGCGAGGGTACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCGGGACCCTCACAGGTCTGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:103/2 length=150
+TTATTGTCCTGAATTCCTGGAGGTTCAGTGAAAAGCAGAAGATTGTCTTTTACACATGTTGAGTTATGCCCCCATATATGTGGTTGTGGTAAAGAAAGAGGATGTGTTGATGAGAGGTCCTGAAATGCATTTTCCTAATACTCAGCAGGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:104/2 length=150
+TCTGTGCATCTCTGTTGATGGCTGCCTTCTAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGGGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCATCAAAGTTATCTCTAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:105/2 length=150
+tggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaagaaacgCAGAAGGTAAGCATGAGCAAATTACTTTTTAGAGGTATCTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:106/2 length=150
+CTCCACCTCTGGGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagctctgttcacggaaagggcctgggagctgcaacacctcaaAagcaacaagcacacctActacctagaacttggtttctaaaaaccatcctcctc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:107/2 length=150
+CCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTTTCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGAACACCATTCTTCACAAGTTCAGCAAAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:108/2 length=150
+agctctttgaagaaacgCAGAAGGTAAGCATGAGCAAATTACTTTTTAGAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGACAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATTAGCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:109/2 length=150
+ACCTGTGAGGGTGCCGGGACAGCCATGCTACAATGCAGCCCTTTTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACGCAGCCCTTCTCAAGAGAGCTGcaagctctgttcacggaaagggcctgg
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:110/2 length=150
+TCTTGAGAAGGGCTGTGTTTCTCCAAACCACCTCTCATAGGTGGAGCGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCGGCACCCTCACAGGTCTGTGCATCACTGTGGATTGCTGCCTTCCAAGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:111/2 length=150
+TGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagctGtgttcacggaaagggcctgggagAtgcaacacctcaacagcaacaagcacacctCctacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:112/2 length=150
+TCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCTCTGCTTGGAAGGCAGTAATCAACAGCGATGCACAGACCTGTGAGGGTGCCGGGACAGCCATCCAACAATGCAGCCCTTTTCCTTCCTGAGCTCACCAGTTCCCTCGCTCCAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:113/2 length=150
+TGAGCTCACCAGTTCCCTCGCTCCACCTCGGAGGGGTGGTTTGGAGAAACACAGCCTTTCTCAAGAGGGCTGcaagctctgttcacggaaagggcctgggagctgcaacacctcaacagcaacaagcacacctgctacctaAaacttggt
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:114/2 length=150
+TGTCATGAATTCCTTTCTTCACTGGGTTATAATTCTGTGACTGTCACCATTTTATTCTGATGTTCAAATCGCCCCATATTTGGCCTGTTGGAATCTTTTCAAGTTGGCTTCTCTGCGTTTTTTGGGCATGTCTCCATCATTCTTTGAGCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:115/2 length=150
+ctctgctccatcaccctcagccacacagctgacgctgtagagattcactgGcatccagtctgatggacactgtttctccagccgaaactgctcatgagaacatgtgcagtgCagtgctccagaggccccagcatgctacattacagaaga
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:116/2 length=150
+ctcctctaaaaggaaacagagctctttgaagaaacggtgagacagtcaacaaacctctaaccaccgaccttttctcctctgccctccactcacactctgctccatcaccctcagccacacagctgacgctgCagagattcactgacatcT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:117/2 length=150
+TTAGAATACTGTTCTCATGAGCAGTTTCGGCTGGAGAAACAGTGTCCTTCAGACTGGATGTCAGAGAATCTCTACAGCGTCAGCTGTATGGCTGAGGGTGATGGAGCAGAGTGTGAGTGGAGGGCAGACGAGAAAAAGTGGGTGGTTAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:118/2 length=150
+CAAAGTTACCTTACAACAACTGAGAGGATTGTCTTGCAGTTCTACTAAATAATTTGATTTTCCATAATTTAGGCTAAGTTGTCCGTAATGTCACGCAGTATTATTAGAATACTGTTCTCATGAGCAGTTTCGGCTGGAGAAACAGTGCCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:119/2 length=150
+tcactgacatccagtctgatggacactgtttctccagccgaaactgctcatgagaacaGTATCCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATAATATAGTAGAACTGCAAGACAATCCTCTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:120/2 length=150
+GGAGCGAGGGAACTGGTGAGCTCAGGAATCAAAAGGGCTGAATTGTTGCATGGCTGTCCCGGCACCCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:121/2 length=150
+acatccagtctgatggacactgtttctccagccgaaactgctcatCagaacaGTATTCTAATAATACCGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:122/2 length=150
+ATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGGCAATCCTCTCAGTTGGTGTAAGGTAACTTTGCTGAACTTGAGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:123/2 length=150
+GAGGTTTGTTGACTGTCTCACCGTTTCTTCAAAGAGCTCTGTTTTCTTTTAGAGGAGGACGGTTTTTAGAAACCAAGATCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTTGCAGCCCTCTTGAGAAGGGCTGCGTTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:124/2 length=150
+TCAGTGAATCTCTACAGCGTCAGCTGTGTGGCTGAGGGTGATGGAGCAGAGTGTGAGTGGAGGGCAGAGGAGAAAAGGTCGGTCGTTAGAGGTTTGTGGACTGTCTCACCGTTTCTTCAAAGAGCTCTATTTACTTTTAGAGGAGGATGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:125/2 length=150
+TGTCACGCAGTATTATTAGAATACTGTTCCCATGAGCAGTTTCGGCTGGAGAAAAAGTGTCCATCAGACTGGATGTCAGTGAATCTCTACAGCGTCAGCTGTGTGGCTGAGGGTGATGGAGCAGAGTGTGAGTGGAGGGCAGAGGAGAAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:126/2 length=150
+tctttAaagaaacggtgagacagtAaacaaacctctaaccaccgaccttttctcctctgccctccactcacactctgctccatcacccAcagccacacagctgacgctgtagagattcactgacatccCgtctgatggacactgtttctc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:127/2 length=150
+TGCTTGTTACTGTTGAGGTGTTGCAGCTTACAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAACCACCTCTCAGAGGTGGAGCGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGGCCCGGCACCCTCACA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:128/2 length=150
+GTGATGGAGCAGAGTGTGAGTGGAGGGCAGAGGAGAAAAGGTCGGTGGTTAGAGGTTTGTTGACTGTCTCACCGTTTCTTCAAAGAGCTCTGTTTCCTTTTAGAGGAGGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:129/2 length=150
+TGCAAGGTCCAGAGCGACTGCACGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATCAACAGAGATGGACAGACCTGTGAGGGTGCCCGGACAGCCATGCAACAATGCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:130/2 length=150
+TGCGTGGAGGGCAGAGGAGAAAAAGTCGGTGGTTAGAGGTTTGTTCACTGTCTCACCGTTTCTTCAAAGAGCTCTGTTTCCTTTTAGAGGACGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGATGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:131/2 length=150
+gacGtccagtctgatggacactgtttctccagccgaaactgctcatgagaacaGTATTCTAATAATACTGCGTCACATTACGGACAACTTAGCCTAAATTAAAGAAAATCAAATTATTTAGTAGGACTGCAAGACAATCCTCTCAGTTGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:132/2 length=150
+CATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCACGACAATCCTCTCAGTTGTTGTAAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:133/2 length=150
+AGTTCTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAACCAGCTCTCAGAGGTGGAGCGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:134/2 length=150
+TTGTAAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCACGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATCAACAGAGATGCACAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:135/2 length=150
+CAAGTTGTAGGTAGCAGGTGTGCTTGTTGCTGTTGAGGTGTTGCAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCGAACCACCTCTCAGAGGTGGAGCGAGGGAACTGGTGAGCTCATGAAGCAAAAGGACTGCATTGTTGCATG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:136/2 length=150
+ttcactgacatccagtctgatggacactgtttctccagccgaaactgctcatgagaCcaGTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGTAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:137/2 length=150
+cctgctacctaTaacttggtttctaaaaaccatcctccActaaaaggaaacagagctctttgaagCaacggtgagacagtcaacaaacctctaaccaccgaccttttctcctctgccctccactcacactctgctccatcaccctcagcc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:138/2 length=150
+acacctcaacagcaacaagcacacctgctacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaagaaacggtgagacagtcaacaaacctTtaaccaccgaccttttctcctctgccctccactcac
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:139/2 length=150
+agccacacagctgacgctgtagagattcactgacatccagtctgatggacactgtttctccagccgaaactgctcatgagaacaGTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:140/2 length=150
+CATCAGACTGGATGTCAGTGAATCTCTACAGCGTCAGCTGTGTGGCTGAGGGTGATGGAGCAGAGTGTGAGTGGAGGGCAGAGGAGAAAAGGTCGGTGGTTAGGGGTTTGTTGACTGTCTCACCGTTTCTTCAAAGAGCTCTGTTTCCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:141/2 length=150
+ACGTGGTTTGGAGTAACACAGCCCTTCTCAAGAGGGCTAcaagctgcaacacctcaacagcaacaagcGcacctgcGacctagaacttggtttctaaaaaccatcctcctctaaaaggaaacagagctctttgaagaaacggtgagacag
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:142/2 length=150
+AACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAATGTAACTTTGCTGAACTTGTGAAGAATGGTGTACAAGGTCCAGAGCGACTGCAGGAGGGGGAAGGTGGGATTCCCACAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:143/2 length=150
+accaccgaccttttctcctctgccTtccactcaGTctctgctccatcaccctcagccacacaActgacgctgtagagGttcactgacaAccagtctgCtggacacCgtttctccagccgaaactgctcatgagaacCGTATTCTAATAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:144/2 length=150
+TCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGACTGcaagctgcaacacctcaacagcaacaagcacacctgctacctaAaacttggtttctaaaaaccatcctccGctGa
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:145/2 length=150
+TGCTTGTTGCTGTTGAGGTGTTGCAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAACCACCTCTCAGAGGTGGAGCAAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCGGCACCCGCACA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:146/2 length=150
+AAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAAGGTAACTTTGCTGAACATGAGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCGCACCGAGCAGGAGCAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:147/2 length=150
+AGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCGGCACCCTCACAGGTCTGTTCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCATTGCTTGGCTTATCCGTGATCCTGCTCTGCGGGAATCCCACC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:148/2 length=150
+GGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAACAGGGCCTTGCTTGGCTTATCTGCGCTCCTGCTCTGTGGGAATCCCACCTTTCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCAGCAAAGTTACCTTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:149/2 length=150
+GGATGTCAGCGAATCTCTACAGCGTCAGCTGTGTGGCTGAGGGTGATGGAGCAGAGTGTGAGTAGAGGGCAGAGGAGAAAAGGTCGGTGGTTAGAGGTTTGTTGACTGTCCCACCGTTTCTTCAAAGAGCTCTGTTTCCTTTTAGAGGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:150/2 length=150
+AGATAAGGTCGGTGGTTAGAGGTTTGTTGACTGTCTCACCGTTTCTTCATAGAGCTCTGTTTCCTTTTAGAGGGGGATGGTTTTTAGAAACCAAGTTCTAGGTAGCAGGGGTGCTTGTTGCTGTTGAGGTGTTGCATCTTGCAGCCCTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:151/2 length=150
+GGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:152/2 length=150
+aacggtgagacagtcaacaaacctctaaccaccgaccttttctcctctgccctcAactcacactctgctccatcaccctcagccacacagctgacgctgtagagattcactgacatccagtctgatggCcactgtttctccagccgaaac
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:153/2 length=150
+TCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGTAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTCCACAAGTTCAGCAATGTTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:154/2 length=150
+ccgaaactgctcatgTgaacaTTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAAGGTAACTTTGCTGAACTTGTGAAGAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:155/2 length=150
+tttctccagccgaaactgctcatgagaacaGTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAAGTTAACTTTGCTGAACTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:156/2 length=150
+ATCCACTCAGTTGTTGTAAGGTAACTTTGCTGAACTTGTGAAGAATGGTATGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTGTCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATCGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:157/2 length=150
+acagcaCcaagcacacctgctacctagaacttggtttctaaaaaccatcctcctctCaaaggaaacagGgcGctttgaagaaacggtgagacagtcaacaaacctctaaccaccgaccttttctcctctgccctccactcacactctgct
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:158/2 length=150
+GTATCCATCAGACTGGATGTCAGTGAATCTCTACAGCGTCAGCTGTGTGGCTGAGGGTGATGGAGCAGGGTGTGAGTGGAGGGCAGACGAGAAAAGGTCGGTGGTTAGAGGTTTGTTGACTGTCTCACCGTTTCTTCAAAGAGCTCTGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:159/2 length=150
+CACCTCTCAGAGGTGGAGAGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCCGCACCCTCACAGGTCTGTGCATCTCTGGTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:160/2 length=150
+ACAATGCAGCCCTTTTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagctgcaacacctcaacagcaacaagcacacctgctacctaCaacttggtttct
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:161/2 length=150
+TTACCTTACAACAACTGAGAGGATTGTCTTGCAGTTCAACTAAATAATTTGATTATCCATAATTTAGGCTAAGTTGTCCGTAATGTCGCGCAGTATTATTAGAATACTGTTCTCATGAGCAGTTTCGGCTGGAGAAACAGTGTCCATCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:162/2 length=150
+TGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATCAACAGAGATGCACAGACCTGTGAGGGTGCCGGGACAGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:163/2 length=150
+cactgacatccagtctgatggacactgtttctccagccgaaactgctcatgagaacaCTATTCTAATAATACTGCGTGACATTACGGACAACTTAGCCTAAATTATGGAAAAACAAATTATTTAGTAGAACTGCAAGTCAATTCTCTCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:164/2 length=150
+GTCCCGGCACCCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACGTTCCCGCTCCTGCAGTCGCTCTGGACCTTGCCCACCATTCTTCAGAAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:165/2 length=150
+TGGAAAATCAAATTATTTAGTAGAACTGCAAGACAATCCTCTCAGTTGTTGTAAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGGGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCAAAGATAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:166/2 length=150
+cctctaaaaggaaacagagctctttgaaAaaacggtgagacagtcaacaaTcctctaaccaccgaccttttctActctgccctccactcacactctgctccatcaccctcagccacacagctgacgctgtagagattcactgacatccag
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:167/2 length=150
+TTTTAATTGGATTTTTTAAAAATCAAGACGGGGTTTCACTATCTTGCCCAGGCTGGTCTTGAATTCACGGGCTCAAGCCATCCTCCTAGCTGAGCCTCCTGAGTAGCTTGGATTACAGGTCTGAGCCATTGCACCCAACTGGTATAGCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:168/2 length=150
+CACATCTGTAATCCCAGCACTTTCAGAGGCTGAGGTGGGAGGATCACTTGAGACCAGGAATTTGTGGCCAGCCTGGCCAACACAACAAGACCCCATCTATACAAAAAATAAAAGAATCTAGCCAGATGTGGAGGTGCAGGCATGTAGTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:169/2 length=150
+TAGCAGCATTATTCATAATGACCAATACATGGAATACATGGAAACAACCCAAATATCCACCAACTGATGAACAGATAAACAAAATGCAGTGTGTCTCTACCATGGAATACTGCCATAGAAGGAATGAAATATTGATACACACTATGACAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:170/2 length=150
+GAGGATTGCTTGAGGCCAGGAGCTCAAGACCAGCCTGGACAACATAGCAACACCTGGGTGGCACACACCTGTGGTCGCTACTACTTGGTAGGATGAGGTAGGAGGATTGATCACTTGATCCAAGGAGTTTCAGGCTGCAGTGAGCCATGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:171/2 length=150
+TGAAGAATCTGGTGTAGAAACTCCAGACGTACATTCAGTCGGAAGTGTGTGAGTAGAGACAAACATGGGCTTTTCCGTCACCTACCTGCTTAATTGCATAGGAGAGGCAATATGTGGTGCTCATGAACAAAGCAAACATTAGAGACAGGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:172/2 length=150
+AGTCAGTTCGTTACCCTGGTTCTCAGACGATGCTTGCAACAACGCCATGCGATTCGCCCACTCTTGGGTTACATTAGTTATACACTCTGGAGGTGGCTTGACCTGTCATTGTGAACAATTATTGCTCTTGGACGACCCAGGGCATAGGCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:173/2 length=150
+TTACCACACGGCGGTCATCTCATGTTGATCAAGGTCAGGGTTCATCAGTTTACCACTCGGCGGTCATCTCATGTTGATCAGAAGCCTTGACAGCAAGCCTAGATGTCTGGAGGTTCTGTAACTGCACCTGCTCCGGCAACTTTCATGACT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:174/2 length=150
+CCTTGTGAAAAACACGAAGCAGAAAACATTCGTGAAATCATCAGGTAAAGATCCCATGACCGTTCTATCACTGACACAGTATGTAGGTACATGGTACAACCCCCAAGGGACCACCTTGTGGCATCCTCGGCAACCACAGAGCCACAGGGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:175/2 length=150
+CCCAGAGGCTGGACTGAGGCAGGTGCCAACTGAAGCTGCTGGGACAGCATGGGCAGGATGTTCTGCACACAATCCTTGGAGAAGAAGATGTGTGCAGATGTTTGTCTTTCTTTGTATCGGTGCTCAGCTTAGTCTGCAATGCTTCAGAGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:176/2 length=150
+TCTAAAGAAGCATTTCTTGTCCCGAGAGACAAGAGGGCCACCCATGGTTGCTCAGGGTGGGCTGCCGACGGCCGCCCAGGTCTGGTGCATGTGGTTTCTTATCTGCTGTGCACTGAGCACAAACTACATGCCAGGCTCTGCCCTGTGCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:177/2 length=150
+CGACTCGCCCCATCTGAGCCTGGGCAAATCTGGATTGGGAAAGTTGACATTAATCAACTCATTATTCCTCACAGATTTGTATTCTCCAGAGTATCCAGGCCCTTCTCAGGGAATTAAAAAGCCTGTACGGcgctgCTCTAAGCTGTTGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:178/2 length=150
+GCTTAAGCCATTTTTGATATAGATACTGAAACAATTACTAGCTAAGAGCAAACTTGAAGGTATGGATAAGGCCCTGAGTCATCTTGCTGAGCTGAATGATAGATAAGCTGAATTAACAATTTGGACAAGACAGCAAATGCTATTGTCCAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:179/2 length=150
+TTGTCCAAGTTTTCTAAAGAAGAATCTGAAGTGAAATGACATCAAGAGACCTATCAAGACCTGTATCCAGGAAAAGCTGATCCATATGAATTCCTCTTATTAAGAAAAATAAAGCATCCAGGATTCAATGAAGAACTGACAATCACCTGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:180/2 length=150
+GACTATCACCTTGTTAATCATTCAGAAACATGTTGCAGGCTTAAGCCATTTTTGATATAGATACTGAAACAATTACTTGCTAAGAGCAAACTTGAAGGTATGGATAAGGCCCTGAGGCATCTTCCTGAGCTGAAGGATAGTTAAGCTGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:181/2 length=150
+CATTCAGCTCAGGAAGATCACTCAGGGCCTTATCCATACCTTCGAGTTTGCTCTTTGCAAGTAATTGTTTCAGTATCTATATCAAAAATGGCTTAAGCCTGTAACAAGTTTCTCAATGATTAACAAGGTGATACTCAGTTCTTCATTGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:182/2 length=150
+AAAGCATCCAGGATTCAATGAACAACTGACTATCACCTTGTTAATCAATCAGAAACATGTTGCAGGCTTAAGCCATTTTTGATATAGATACTGAAACAATTACTAGCTAAGAGCAAACTTGAAGGTATGGATAAGGCCCTGAGTCATCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:183/2 length=150
+GACATCAAGAGACCTATCAAGACCTGTATCCAGGAAAAGCTGATCCATATGAATTCCTCTTATTAAGAAAAATAAAGCATTCAGGATTCAATGGAGAACTAACTATCACCTTGTTAATCATTCAGAAACATGTTGGAGGCTTAAGCCATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:184/2 length=150
+CACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAATTCAGCTTAACTATCATTCAGCTCAGGAAGATGACTCAGGGCATTATCCATAACTTCAAGTTTGCTCTTAGCAAGTAATTGTTTCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:185/2 length=150
+ATTCATATGGATTAGCTTTTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGCATTTGCTGTCTCGTCCAAATTGTTAATTCAGCTTAACTATCATTCAGCTCAGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:186/2 length=150
+AAGAGCAAACTTGAAGGTATGGATAAGGCCCTGAGTCACCTTCCTGAGCTGAATGATAGTTAAGCTGAATTAACAATTTGGACAAGACAGCAAATGCTGTTGTCCAAGTTTTCTAAAGAAGAATCTGAAGTGAAATGACATCAAGACACC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:187/2 length=150
+ATAATAAGAGGAATTCATATGGATCAGCTTTTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGTATTTGCTGTCTTTCCCAAATTGTTAATTCAGCTTAACTATCAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:188/2 length=150
+AGGAATTCATATGGATCTGCTTTTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAATTCAGCTTAACTATCATTCAGCTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:189/2 length=150
+CTGAGTCATCTTCCTGAGCTGAATGATCGTTAAGCTGAATTAACAATTTGGACAAGACAGCAGATGCTATTGTCCAAGTTCTCTAAAGAAGAATCTGAAGTGAAATGACATCAAGAGACCTATCAAGACCTGTATCCAGGAAAAGCTGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:190/2 length=150
+CCTTGTTAATCATTCAGAAACATGTTGCAGGCTTAAGCCATTTGTGATATAGATACTGAAACAATTACTTGCTAAGAGCAAACTTGAAGGTATGGATAAGACCCTGAGTCATCTTCCTGAGCTGAATGATAGTTAAGCTGAATTAACAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:191/2 length=150
+GACCTGTATCCAGGAAAAGCTGATCCATATGAATTCCTCATATTAAGAAAAATAAAGCATCCAGGATTCAATGAAGAACTGACTATCACCTTGTTAATCATTCAGAAACATGTTGCAGGCTTAAGCCATTTTTGATATAGATACTGAAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:192/2 length=150
+ACCTTGTTAATCATTCAGAAACATGTTGCAGGCTTAAGCCATTTTTGATATAGATACTGAAACAATTACTTGCTAAGAGCAAACTTGAAGGTATGGATAAGGCCCTTCGTCATCTTCCTGAGCTGAATGATAGTTAAGCTGAATTAACAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:193/2 length=150
+AGCCATTTTTGATATAGATACTGAAACAAATACTTGCTAAGAGCAAACTTGAAGGTATGGATAAGCCCCTGAGTCATCTTCCTGAGCTGAATGATAGTTAAGATGAATTAACAATTTGGACAAGACAGCAAATGCTATTGTCCAAGTTTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:194/2 length=150
+TTCACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAATTCAGCTTAACTATTATTCAGCTCAGGAAGATGACTCAGGGCCTTACCCATACCTTCAAGTTTGCTCTTAGCAAGTAATTGTTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:195/2 length=150
+TAATTCAGCTTAACTATCATTCAGCTCAGGAAGATGACTCAGGGCCTTATCAATACCTTCAAGTTTGCTCTTAGCAAGTAATTGTTTCAGTATCTATATCAAAAATGGCTTAAGCCTGCAACATGTTTCTAAATGATTAACAAGGTGATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:196/2 length=150
+ATGCTTTACTTTTCTTAATAAGAGGAATTCATATGGATCAGCTTTTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTGTTCTTTAGAAACCTTGGACATTAGCATTTGCTGTCTTGTCCAAATTGTTAATCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:197/2 length=150
+TGCTTTATTTTTCTTAATAAGAGGAAGTTATATGGATCAGCTTTTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTCTTCTTTAGAAAACTTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAATTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:198/2 length=150
+TAATTGTTTCAGTATCTATATCAAAAATGGCTTAAGCCTGCAACATGTTTCTGAATGATTAAGAAGGTGATAGTCAGTTCTTCATTGAATCCTGGATGCTTTGTTTTTCTTATTAAGAGGAATTCATATGGATCGGCTTTTCCTGGATAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:199/2 length=150
+TTTTCTTAATAAGAGGATTTCATATGGATCAGCTATTCCTGGATACAGGTCTTGATAGGTCTCTTGATGTCATTTCACTTCAGATTCTTCTTTAGAAAGCTTGGACAATAGCATTTGCTGTCTTGTCCAAATTGTTAATTCAGCTTAACT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:200/2 length=150
+GGTTTCAGTATCTATATCAAAAATGGCTTAACCCTGCAACATGTTTCTGAATGATTAACAAGGTGATAGTCAGTTCTTCATTGAATCCTGGATGGTTTATTTTTCTTAATAAGAGGAATTCATATGGATCAGCTTTTCCTGGAGACAGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:201/2 length=150
+ATGACATCAAGAGACCTATCAAGACCTGTATCCAGGAAAAGCTGATCCATATGAATTCCTCTTATTAAGAAAAATTAAGCATCCAGGATTCAATGAAGAACTGACTATCACCTTGTTAATCATTCAGAAACATGTTGCAGGCTTAATCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:202/2 length=150
+CCTGAGTCATCTTCCAGAGCTGAATGATAGTTAAGCTGAATTAACAATTTGGACAAGACAGCAAATGCTATTGTCCAAGTTTTATAAAGAAGAATCTGAAGTGAAATGACATCAAGAGACCTATCAAGACCTGTAACCAGGAAAAGCTGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:203/2 length=150
+TCAGCTCAGGAAGATGACTCAGGGCCTTATCCATACCTTCAAGTTTGCTCTTAGCAAGTAATTGTTTCGGTATTTCTATCAAAAATGGCTTAAGCCTGCAACATGTTTCTGAATGATTAACAAGGTGATAGTCAGTTCTTCATTGAATCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:204/2 length=150
+GTATCGCTGATCTACGTAAACAAACTGAAGAATTGTCTGAAAGAAAACATGCTGGACCTATCATGAAAGACGTCTGAATCCAGGAAGAGAAACTGACTGGGCAACATGTTATTCAGCTCGAGCTGTAAAAGCCAAAGGTCCGGTGATGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:205/2 length=150
+CGAATAACATGTTGCCCAGTCAGTTTCTCTTCCTGGATTCAGAAGTCTTGCATGGTAGGTCCAGCATATTTTCTTTCAGACAATTCTTCAGTTTGTTTACGTAGATCAGCGATACGATGATTCCATTTCTCTGACAAAGTTGATTTATCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:206/2 length=150
+AACACATGAACTTATGAATTCAAAAGGTGAAGATTTACAACTTGATAAATCAACTTTGTCAGAGAGATGGAATCATCGTATCGCTGATCTACGTAAACAAACTGAAGAATTGTCTGAAAGAAAATATGCTGGGCCTACCATGAAAGACTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:207/2 length=150
+CCGGACAACATGGTGAAACCGCATCTCCACTAAAAATACAAAAATTAGCCTGGTATGGTGGTGGGCACCTGTAATCCCAGTGACTTGGGAGGCTAAGGCATGAGTATTTCTTGAACCCAGGAGGCAGAGGTTGCAGTGACCAGCAAGGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:208/2 length=150
+GAGGTTGCAGTGACCAGCAAGGTTGCGCCATTGCACCCCAGCCTGGGCGATAAGAGTGAAAACTCCATCTCAAAAAAAAAAAAAAAAAAAAAATTCCTTTGGGAAGGCCTTCTACATAAAAATCTTCAACATGAGACTGGAAAAAAGGGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:209/2 length=150
+ATGAATTCAACAGGTGAAGATTTACAACCTGATCAATCAACTTTGCCAGAGAAATGGAATCATAGTATCGCTGATCTACGTAAACAAACTGAGGAATTGTCTGAAAGAAAATATGCTGGACATACCATGAAAGACTTCTGAATCCAGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:210/2 length=150
+CCTCGACTCCTGATATCAAGTGATCTTCCCGCCTCGGCCTCCCAAAGTGCTGAGATTACAGACGTGAACCCATGCCTGGCCAGGAACTTTGTTTGTTAGGAAGGGTTTCTACTAATGGAATTCCTGGCCTTGAGAGGATGTTACTTTAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:211/2 length=150
+ATTCCATTAGTAGAAAGCCTTTCTAAACAACAAAATTCCTGGCCAGGCATGGGTTCACGTCTGTAATCTCAGCACTCTGGGAGGCCGAGGCGGGAAGATCACTTGATATCAGGGGTCGAGGCGGGAAGATCACTTGACGTCAGGAGTTCG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:212/2 length=150
+TGTAATCCCAGTGACTTGGGAGGCTAAGGCAGGAGAATTTCTTGAACCCAGGAGGCAGAGGTTGCAGTGACCAGCAAGGTTGCGCCATTGCACCCCAGCCTGGGAGATAAGAGTGAAAACTCCATCTCAAAAAAAAAAAAAAAAAAAAAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:213/2 length=150
+CCAGGAATTCCATTAGTAGAAAGCCTTCCTAAAAAACAACATTCCTGGCCAGGCATGGGTTCACGTCTGTAATCTCAGCACTCTGGGAGGCCGAGGCGAGAAGATCACTTGATATCAGGAGTCGAGGCGGGAAGATCACTTGACGTCAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:214/2 length=150
+TTCGAGACTGGTCCGGCCAACATGGTGAAACCGCATCTCCACTAAAAATACAAAAATTAGCCTGGTATGGTGGTGGGCACCTGTAATCCCAGTGACTTGGGAGGCTAAGGCAGGAGAATTTCTTGAACCCCGGAGGCAGAGGTTGCAGTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:215/2 length=150
+AACATGTTGCCCAGTCAGTTTCTCTTCCTGGATTCAGAAGTCATTCATGGTAGGTCCAGCATATTTTCTTTCAGACAATTCTTCAGTTTGTTTACGTAGATCAGAGATACGATGATTCCATTTCTCTGACAAAGTTGATCTATCAAGTTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:216/2 length=150
+CCTGGGCGATAAGAGTGAAAACTCCGTCTCAAAAAAAAAAAAAAAAAAAAAATTCCTTTCGGAAGGCCTTCTACATAAAAATCTTCAACATGAGACTGGAAAAAAGGGTATGGGATCATCACCGGACCTTTGGCTTTTACAGCTCGAGCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:217/2 length=150
+TCACGTCTGTAATCTCAGCACTCTGGGAGGCCGAGGCGGGGAGATCACTTGATATCAGGAGTCGAGGCGGGAAGATCACTTGACGTCAGGAGTTCGAGACTGGCCCGGCCAACATGGTGAAACCGCATCTCCACTAAAAATATAAAAATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:218/2 length=150
+TCAGAGAAATGGAATCATCGTATCGCTGATCTACGTAAACAAACTGAAGAATCGTCTGAAAGAAAATATGCTGGACCTACCATGAAAGACTTCTGAATCCAGGAAGAGAAACTGACTGGGCAACATGTTATTCAGCTAGAGCTGTAAAAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:219/2 length=150
+ATTTCTTGAACCCAGGAGGCAGAGGTTGCAGTGACCAGCAAGGTTGCGCCATTGCACCCCAGCCTGGGCGATAAGAGTGAAAACTCCATCTCAAAAAAAAAAAAAAAAAAAAATTTCCTTTGGGAAGGCCTTCTACATAAAAATCTTCAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:220/2 length=150
+AGCAAGGTTGCGCCATTGCGCCCCAGCCTGGGCGATAAGAGGGAAAAGTCCATCTCTAAAAAAAAAAAAAAAATAAAATTCCTTTGGGAAGGCCTTCTACATAAAAATCTTCAACAAGAGACTGGAAAAAAGGGTATGGGATCATCACCG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:221/2 length=150
+TGAAGATTTACAACTTGATAAATCAACTTTGTCAGAGAAATGGAATCATCGTATCGCTGTTCTACGTAAACAAACTGAAGAATTGTCTGAAAGAAAATATGCTGGGCGTACCATGAAAGACTTCTAAATCCAGGAAGAGAAACTGACTGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:222/2 length=150
+GGGTTCAAGAAATCCTCCTGCCGTAGCCTGCCAAGTCACTGGGATTACAGGTGCCCACCACCATACCAGGCTAATTTTTGTATTTTTAGTGGAGTTGCGGTTTCACCATGTTGGCCGGGCCAGTCTCGAACTCCTGATGTCAAGTGATCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:223/2 length=150
+GAATTGTCTGAAAGAAAATATGCTGGACCTACCATGAAAGAATTCTGAATCCAGGAAGAGAAACTGACTGGGCAACATGTTATTCAGCTCGAGCTGTAAAAGCCAAAGGTCCGGTGATGATCCCATACCCTTTTTTCCAGTCTCATGTTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:224/2 length=150
+GTTTCACCATGTTGGCCGGGCCAGTCTCGAACTCCTGACGTCAAGTGATCTTCCCGCCTCGACTCCTGATATCAAGTGATCTTCCCGCCTCGGCCTCCCAGAGTGCTGAGATTACAGACGTGAACCCATGCCTGGCCAGGAATTTTGTTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:225/2 length=150
+GGTTCAAGAAATTCTCCTGCCTTAGCCTCCCAAGTCACAGGGAATTCAGGTGCCCACCACCATACCAGGCTAAGTTTTGTATTTTTAGTGGAGATGCGGTTTCACCATGTTGGCCGGGCCAGTCTCGAACTCCTGACGTCAAGTGATCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:226/2 length=150
+AGATCAGCGATACGATGATTCCATTTCTCTGACAAAGTTGATTTATCAAGTTCTAAATCTTCACCTGTTGAATTGATAAGTTCATGTCTTTTAATAACAAAAAAATCCTTTCCTTCTAAAGTAACATCCTCTCAAGGCCAGGAATTCCAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:227/2 length=150
+ATTCCTTTGGGAAGACCTTCTACATAAAAATCTTCAACATGAGACTGGAAAAAAGGGTATGGGATCATCACAGGACCATTGGCTTTTACAGCTCGAGCTGAATAACATGTTGCCCAGTCAGTTTCTCTTCCTGGATTCAGAAGACTTTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:228/2 length=150
+CAGGTGAAGATTTACAACTTGATAAATCAACTTTGTCAGAGAAATGGAATCATCGTATCGCTGATCTACGTAAACAAACTGAAGAATTGTCTGTAAGAAAATATGCTGGACCTACCATGAAAGACTTCTGAATCCAGGAAGAGAAACTGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:229/2 length=150
+CTTTGGCTTTTACAGCTCGAGCTGAATAAAATGTTGCCCAGTCAGTTTCTCTTCCTGGATTCAGAAGTCTTTCATGGTAGGTCCAGCATATTTTCTTTCAGACAATTCTTCAGTTTGTTTACGTAAATCAGCGATAGGATGATTCCATTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:230/2 length=150
+CATGGTGAAACCGCATCTCCACTAAAAATACAAAAATTAGCCTGGTATGGTGGTGGGCACCTGTAATCCCAGTGACTTGGGAGGCTAAGGCAGGAGAATTTCTTGAACCCAGGAGGAAGAGGTTGCAGTGACCAGCAAGGTTGCGCCATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:231/2 length=150
+CCTGGCCTTGAGAGGATGTTACTTTAGAAGGAAAGGATTTTTTTGTTATTAAAAGACATGAACTTATGAATTCAACAGGTGAAGATTTACAACTTGATAAATCAACTTTGTCAGATAAATGGAATCATCGTATTGCTGATCTACGTAAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:232/2 length=150
+TTTTTGTGATTAAAAGACATGAACTTATGAATTCAACAGGTGAAGATTTACAGCTTGATAAATCAACTTTGTCAGAGAAATGGAATCATCGTATCGCTGATCTACGTAAACAAACTGAAGAATTGTCTGAAAGAAAATATGCTGGACCTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:233/2 length=150
+AAAAAAAAAAAAAAATCCTTTGGGAAGGCCTTCTGCATAAAAATCTTCAACATGAGACTGGAAAAAAGGGTATGGGATCCTCACCGGACCTTTGGCTTTTACAGCTCGAGCTGAATAACATGTTGCCCAGTAAGTTTCTCTTCCTGGATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:234/2 length=150
+TTGAACCCAGGAGGCAGAGGTTGCAGTAACCAGCAAGGTTGCGCCATTGCACCCCAGCCTGGGCGATAAGAGTGAAAACTCCATCTCAAAAAAAAAAAACAAAAAAAAATTCCTTTGGTAAGGCCTTCTACATAAAAATCTTCAACATGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:235/2 length=150
+CCAGGCTAATTTTCGTATTTTTAGTGGAGATGCGGTTTCACCATGTTGGCCGGGCCAGTCTCGAACTCCAGACGTCATGTGATCTTCGCGCCTCGACTCCTGATATCAAGTGATCTTCCCCCCTCGGCCTCCCAGAGTGCTGAGATTACA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:236/2 length=150
+TTTTTAGGAAGCCTTTCTACTAATGGAATTCCTGGCCTTGAGAGGATGTTACTTTAGAAGGAAAGGATTTTTTTGTTATTAAAAGACATGAAGTTATGAATTCAACAGGTGAAGATATACAACTTGATTAATCAACTTTGTCAGAGAAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:237/2 length=150
+AATTCCATTAGTAGAAAGCCTTCCTAAAAAACAAAATTCCTGGCCAGGCATGGGTTCACGTCTGTAATCTCAGCACTCTGGGAGGCCGTGGCGGGAAGATCACTTGATATCAGGAGGCGAGCCGGGAAGATCACTTGACGTCAGGAGTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:238/2 length=150
+ATGTCGGCCGGGCCAGTCTCGAACTCCTGACGTCAAGTGATCTTCCCGCCTCGACTCCTGGTATCAAGTGATCTTCCCGCCTCGGCCTCCCAGAGTGCTGAAGTTACAGACGTGAACCCATGCCTGGCCAGGAATTCTGTTTTTTAGGAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:239/2 length=150
+CGATGCGCGCCAACCGGCCGGCACCTGTCGCAGAAGGTGCAATCGATCGCACTGTCGCGCAGAAGCTCCTCAATGGCCAGCGCCAGCTGCAGCCCCGGCCGCCCACTCGCCTCATCTGATCCTGGCAGAAGGTAAGCATGAGCAAATTAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:240/2 length=150
+CACAAGGCTGAGTCAAATCTGCGTTTCATCATCTATAAGAAAGCAGAAGGTAAGCATGAGCAAATTACTTTTTAGCGGGAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:241/2 length=150
+CACCCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTAAGCAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:242/2 length=150
+CAAGGCTGAGTCAAATCTGCGTTTCACCATCTATAAGAAAGCAGAAGGTAAGCATGAGCAAATTACTTTTTAGAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCAACTGCAGGAGAGGGAAGGTGGGATTCCCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:243/2 length=150
+AAATCTGCGTTTCATCATCTATAAGAAAGCAGAAGATAAGCCTGAGCAAATTACTTTTTAGCGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGTGGGAAGGTGGGATTCCCACAGAGCAGGAGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:244/2 length=150
+CTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCAGCAAAGTTACCTCTAAAAAGTAATTTGCTCATGCTTACCTTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:245/2 length=150
+TCATCTATAAGAAAGCAGAAGGTAAGCATGAGCAAATTACTTTTTAGAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTACAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGTAGCACAGATAAGCCAAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:246/2 length=150
+GTGCCGGGACAGCCATGCAACAATGCAGCCCTTTTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:247/2 length=150
+GGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCAGCAAAGTTACCTCTAAAAAGTAATTTGCTCATGCTTACCTTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAGCCTTGTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:248/2 length=150
+AGAGATGCACAGACCTGTGAGGGTGCCGGGACAGCCATGCGACAATGCAGCCCTTATGCTTCCTGAGCTCACCAGTTCCCTTGCTCCACCTGTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagCTACTTAAGAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:249/2 length=150
+TTGGAAGGCAGCAATAAACAGAGATGCACAGACCTGTGAGGGTGCCGTGACAGCCATGCAACAATGCAGCCCTTTTGCTTCCTGAGCTGACCAGTTCCGTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCGAGAGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:250/2 length=150
+AGCCCTTTTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGTaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGAGTCAAATCTGCGTTTCATCTTCTATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:251/2 length=150
+TTGAGAAGGGCTGTGTTTCTCCAAACCACCTCTCAGAGGTGGAGCCAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTACATTATTGCATGGCTCTCCCGGCACCCTCACAGGTCTGTGCAGCTCTGTTGATTGCTGCTTTCCAAGCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:252/2 length=150
+ACGCAGATTTGACTCAGCCTTGTGGGAATTTTCAGGACTTAAGTAGCTTGCAGACCTCTTGAGAAGGGCTGTGTTTCTGCAAACCACCTCTCAGAGGTGGAGCGAGGGAACTGGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCACG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:253/2 length=150
+ACCTCTGAGAGGTGGTTTGGAGAAACACAGCACTTCTCAAGAGGGCTGcaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGAGTCAATTCTGCGTTTCATCATCTATAAGAACGCAGACGGTAAGCATGAGCAAATTACTTTTTAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:254/2 length=150
+ACAGAGATGCACAGATCTGTGAGCGTGCCAGGACAGCCATGCAACAATGCAGCCCTTTCGCTTCCTGAGCTCACCAGTTCCCTCGATCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCATCTCAAGAGGGCTGcaagCTACTTAAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:255/2 length=150
+TGCTTACCTTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAGCCTTGTGGAAATTTTCAGGACTTAAGTAGGTTGCAACTCTCTTGAGCAGGGCTGTGTTTCTCCAAACAACCTCTCAGAGGTGGAGCGAGGGAACTGGTGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:256/2 length=150
+GGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCTCCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACGCCATTCTTCACAAGTTCTGCAAAGTTACCTCTAAAAAGTAATTTGCTCATGCTTACCTTCTGCTTTCTTATAGATGATGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:257/2 length=150
+GAGGGAAGGTGGGATTCCCACAGAGCAGGAAAACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATTAACAGAGATGCACGGACCTGTGAGGGTGCCGGGACAGCCATGCAACAATGCAGCCCTTTTGCTTCCTGAGCTCACCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:258/2 length=150
+GCACAGCATTCTACACAAGTTCAGCAAAGTTACCTCTAAAAAGTAATTTGCTCTTGCTTACCGTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAGCCTTTTGGAAATTTTCAGGTCTTAAGTAGCTTGCAGCCCTCTTGAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:259/2 length=150
+TTTTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAGGAGGGCTGcaagCTACTTAAGTTCTGAAAATTTCCACAAGGCGGAGTCATATCTGCGTTTCATCATCTATAAGAAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:260/2 length=150
+CTCACCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTAGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagATACTTAAGTCCTGAAAATTTCCACAAGGCTGAGTCAAATCTGCGTTTCATCATCTATAAGAAAGCAGAAGGTAAGCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:261/2 length=150
+CCGGGACAGCCATGCAACAATGCAGCCCTATTGCTTCCTGAGCTCACCAGTTCCCTCGCTCCACCTCTGAGTGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGAGTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:262/2 length=150
+GTAAGCATGAGCAAATTACTTTTTAGAGGTAACTTTGCTGAACTTGTGAAGAATGGTGTCCAAGGTCCGGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:263/2 length=150
+CTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGAGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCAGACTATTCTTCACAAGTTCAGCAAAGTTACCTCTAAAAAGTAATTTGCTCATGCTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:264/2 length=150
+AGAGGTAACTTTGCTTAACTTGTGAAGAATGGTGTGCAAGGTCCAGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGAAAGGCCCTGCTTGGAAGGCAACAATCAACAGAGATGCTCAGACC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:265/2 length=150
+GTAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTCTCCAAACCACATCTCAGAGGTGGACGGAGGGAACTGGTGCGCTCAGGAAGCAAAAGGGCTGGATTGTTGCATGGCTGTTCCGGCACCCTCACAGGTCTGTGCATCTCTGTTGATT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:266/2 length=150
+CCTTTTGCTTCCTGAGCTCACCAGTTCCCTAGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGAGTCAAATCTGCGTTTCATCATCTATAAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:267/2 length=150
+CCAGTTCCCTCGCTCCACCTCTGAGAGGTGGTTTGGAGAAACACAGCCCCTCTCAAGAGGGCTGcaagCTACTTAAGTCCTGAAAATTTCCACAAGGCTGACTCAAATCTGCGTTTGATCATCTATAAGAAAGCAGAAGGTAAGCATGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:268/2 length=150
+CACAAGTTCAGCAAAGTTACCTCTAAAAAGTAATTTGCTCATGCTTACCTTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAGCCTTCTGGAAATTTTCAGGACTTAAGTAGCTTGCAGCCCTCTTGAGAAGGGCTGTGTTTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:269/2 length=150
+CTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCTCCTGCAGTCGCTCTGGACCTTGCACACCATTCTTCACAAGTTCAGCAAAGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:270/2 length=150
+AAATGTAATTTGCTCATGCTTACCTTCTGCTTTCTTATAGATGATGAAACGCAGATTTGACTCAACCTTGTGGAAATTTTCAGGACTTAAGTAGCTTGCAGCCCTCTTGACAAGGGCTACGTTTATCCGAACCACCGCTCAGAGGTGGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:271/2 length=150
+CAATGCAGCCCTTTTGCTTCCCGAGCTCACCAGTTCCCTCGCTCCTCCTCTGAGAGGTGGTTTGGAGAAACACAGCCCTTCTCAAGAGGGCTGcGagCTACTTAAGTCCTGAAAATTTCTACAAGGCTGAGTCAAATGTGCGTTTCATCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:272/2 length=150
+TCTGAGAGGTGGTTTGGAGAAATACAGCCCTTCTCAAGAGGGCTGcaagCTACTTAAGTCCTCAAAATTTCCACAAGGCTGAGTCAAATCTGCGTTTCATCATCTATAAGAAAGCAGAAGGTAAGCATGAGCATATTACTTTTTAGAAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:273/2 length=150
+GGTGAGCTCAGGAAGCAAAAGGGCTGCATTGTTGCATGGCTGTCCCGGCACCCTCACAGGTCTGTGCATCTCTGTTGATTGCTGCCTTCCAAGCAGGGCCTTGCTTGGCTTATCTGTGCTCCTGCTCTGTGGGAATCCCACCTTCCCTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:274/2 length=150
+AGAATGGTGTGCAAGGTCCGGAGCGACTGCAGGAGAGGGAAGGTGGGATTCCCACAGAGCAGGAGCACAGATAAGCCAAGCAAGGCCCTGCTTGGAAGGCAGCAATCAACAGAGATGCACAGACCTGTGAGGGTGCCGGGACAGCCATGC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:275/2 length=150
+AGGGTGTCACAGAAGTGATGCTTTATTTTCTCATTGTATCTATCAAGTGGCTTATGATTTTGATTTACTCTGTTACTGATAATGCTCAACTAAACCTCTTGATTAAAGTAGTTCTGCCAATATTCTCACGTCAAGGTGCACTTTTCCCCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:276/2 length=150
+TTCCATTTAACAAAACTGCAGCCCTTCATCTATCCTTAAGTCCCTTGGCCAATGGTACAGAGCCAGAGTATGCTACTCCCTAGCAGGAAACCAACAGGATGACCTACTAAACACCATTCAGAAGATGCTAAGACCCATGAATTGCAACAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:277/2 length=150
+ACAAAGATGAGGCAAAGCTAGACGCATTCCTGAAGGAACCCAAGAAATTCCTCGCTTTCTCTCTCTGGAATGAAATGAATTCTCTAGACCACCAGTTCTAACCTTCAAAAACCAAACCTGTTTGTGAGCTGTCCTTCAAATACTACTGTA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:278/2 length=150
+GCTTCCGAGGTTACATGCTGTGGTTCTAGGTCCAGACATGCTCTTTATGGTCTGCTAACTCCTGTTGTGCTGCATGCTTCACTGAAGCCCAGCCACCACGTCCAGGCTGGACTTCCCCGGTGTTTTCTGAGTCCTCCTTCAGATATTTAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:279/2 length=150
+CAAGCATATAAAAGTCAACTAATTTATGACAAGGACATCAAGAAAACACAGTGGAGAAAGAATAATCTCTTCAATAAATGGTGTTATGAAAATTGGATATCCAACACTGGGGAGACTGGACCCTTATCTTACATCATACACACAAATATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:280/2 length=150
+gTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCTTAAAATCCTACCGTTGAGTGCCTGCCTTGGATCAGCAGTCAGTTCGTTACCTTGGTTCTCAGACTATGCTTGCAACAACGCCATGCGATTCGCCAACTC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:281/2 length=150
+attctcctgcctcagcctcccaagtagctgggattacagTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCTTAAAATCCTACCGTTGAGTGCCTGCCTTGGATCAGCAGTCAATTCGTTACCTTGGTTCTCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:282/2 length=150
+GCAGACCTTTTCATATTCGAGGATATTACATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGTGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAGCCAAGGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:283/2 length=150
+TTGGTCTTCAATGAGCAGACCTTTTCATATTCGAGGATATTTCATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGTGGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCTGAGAACTAAGGTAACGAACTGACTGCTGATCTAAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:284/2 length=150
+gctttttgctgctgtaacagaataccacagacttgtttctctcctgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagTTTCCATCATTAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:285/2 length=150
+ctcggctcactgcgacctcGgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCTTAAAATCCTACCGTTGAGTGCCTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:286/2 length=150
+cCgtaacaCaatCcGacagacttgtttctctcctgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattacagGTTCCATCATTATCTTCTATGGAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:287/2 length=150
+GAGAAAATGAGAGAAGTATCCCTGAAGGATGAAATATCCTCGAATATTAAAAGGTCTGCTCTCTGAAGACCAACtgtctcagtctgctttttgctgctgtaacagaataccacagacttgtttctctcctgtcacaatggcatgatcCcg
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:288/2 length=150
+GAGAACCAAGTTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACAGTAGGATTTTAAGGTCCACAGATGTGGGAATGAAGAACTCCATAGAACATAATGATGGAAACTGTAATCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:289/2 length=150
+CAACtgtctcagtctgctttttgctgctgtaacagaataccacagacttgtttctctcctgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggttcaaggattctcctgcctcagcctcccaagtagctgggattac
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:290/2 length=150
+CATCGTCTGAGAACCAAGGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAATGACGAACTCGATAGAAGATAATCATGGAAAGTGTAATCCCAGCTACTTGGGAGGCTGAGGCA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:291/2 length=150
+ACTGAGACAGTTGGTTTTCAGAGAGCAGACCTTTTCATATTCGAGGATATTTCATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGTGGGCGAATCGCATGCCGTTGTTGCAAGCATCGTCTGAGAACCAAGGTAACGAACTGCCTG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:292/2 length=150
+gctgctgtaacagaataccacagacttgtttctctcctgtcacaatgCcatgatctcggctcactgcgacctctgcttcctgggttcaaggatGctcctgcctcagcctcccaagtagctgggattCcagTTTCCATCATTATCTTCTAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:293/2 length=150
+ATTGTGACAGGAGAGAAACAAGTCTGTGGTATTCTGTTACAGCAGCAAAAAGCAGACTGAGACAGTTGGTCTTCAGAGAGCAGATCTGTTCATATTCGAGCATATTTCATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGTGGGCG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:294/2 length=150
+cctcccaGgtagctgggattacagTTTCCATCATTATCTTCGATGGAGTTCTTCATTCGCACATCTGTGGACCTTAAAATCCTACCGTTGAGTGCCTGCCTTGGATCAGCAGTCAGTGCGTTACCTTGGTTCTCAGACGATGCTTGCAAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:295/2 length=150
+CAACAACGCCATGCGATTCGCCCACTCTTGGAGAAAATATGAGAAGTATCCCTGAAGGATGAAATATCCTCGAATATGAAAAGGTCTGCTCTCTGAAGACCAACtgCctcagtctgctttttgctgctgtaacagaataccacagCcttg
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:296/2 length=150
+ccaagtagctgggattacTgTTTCCATCATTATCTTCTATCGAGTTCTTCATTCCCACATCAGTGGACCTTAAAATCCTAACGTTGAGTGCCTGCCTTGGATCAGCAGTCAGTTCGTTACCTTGGTTCTCAGACGATGCTTGCAACAACG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:297/2 length=150
+TGAAGGATGAAATATCCTCGAATATGAAAAGGTCTGCTCTCTGAAGACCAACtgtctTagtctgctttttgctgctgtaacTgaataccacagacttgtttctctccCgtcacaatggcatgatctcggctcactgcgacctctgcttcc
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:298/2 length=150
+ggattctcctgcctcagcctcccaagtagctgggattacagTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCTTAAAATCCTACCGTTGAGTGCCTGCCTTGGATCAGCAGTCAGTTCGTTACCTTGGTTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:299/2 length=150
+TAAGGTCCACAGATGTGGGAATGAAGAACTCCATAGAAGATAATGATGGAAACTGTAAGCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATCCTTGAACCCAGGAAGCAGAGGTCGCAGTGAGCCGAGATCATGCCATTGTGACAGGAGA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:300/2 length=150
+tttctctcctgtcacaatggcatgatctcggctcactgcgacctctgcttcctgggtAcaaggattctcctgcctcagcctcccaaTtagctgggattacagTTTCCATCATTACCTTCTATGGAGTTCTTCATTCCCACATCGATGGAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:301/2 length=150
+ATTCTGTTACAGCAGCAAAAAGCAGACGGAGACAGTTGGTCTTCAGAGAGCAGACCTTTTCAAATTCGAGGATATTTCATCCTTCAGGGATAGTTCTCTTATTTTCTCCAAGAGTAGGCGAATCGCATGGCGTTGTTGCAAGCATCGTCT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:302/2 length=150
+AACCAACGTAACGAACTGACTGCTGATCCAAGGCAGGCACTCAACGGTAGGATTTTAACGTCCACAGATGTGGGAATGAAGAACTCCATAGAAGATAATGATGGAAACTGTAATCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATCCTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:303/2 length=150
+TCAGACAATGCTTGCAACAACGCCATGCGATTCGCCCACTCTTGGAGAAAATAAGAGAAGTATCCCTGAAGGATGAAATATCCTCGAATATGAAAAGGTCTGCTCTCTGAAGACCAACtgtctcagtctgctAtttgctgctgAaTcaga
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:304/2 length=150
+ATTCCATTGTGACAGGAGAGAAACAAGTCTGTGGTATTCTGTAACAGCAGCAAAAAGCAGACTGAGGCAGTTGTTCTTCAGACAGCAGACCTGTGCATATTCGAGGATATTTCATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:305/2 length=150
+aaggattctcctgcctcagcctcccTagtagctgggattacagTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCTTAAAATCCTAGCGTTGAGTGCCTGCCTTGGATCAGCAGTCATTTCGTTACCTTGGTT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:306/2 length=150
+TCCTTGAACCCAGGAAGCAGAGGTCGCAGTGAGCCGAGATCATGCCATTGGGACAGGAGAGAAACAAGTCTGTGGTATTCTGTTACAGCAGCAAAAAGCAGACTGAGACAGTTGGTCTTCAGAGAGCAGATCTTTTCATATTCGAGGATA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:307/2 length=150
+ACGCCATGCGATTCGCCTACTCTTGGAGAAAATAAGAGAAGTATCCCTGAAGGATGAAATATCATCGAATATGAAAAGGTCTTCTCTCTGAAGACCAACtgtctcagtctgctttttgctgctgtaacagaataccGcagacttgtttct
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:308/2 length=150
+acCgcgacctctgcttcctgggttcaaggattctcctgcctcagccGcccaagtagctgggattacagTTTCCATCATTATCTTCTATGGAGTTCTTCATTCCCACATCTGTGGACCCTAGAATCCTACCGTTGAGTGCCTGCCTTGGAT
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:309/2 length=150
+GAAGCAGAGGTCGCAGTGAGCCCAGATCATGCCATTGTGACAGGAGAGAAACAAGTCTGTGGTATTCTGTTACAGCAGCAAAAAGCAGACTGAGACAGTTGGTCTTCAGAGAGCAGACCTTTTCATATTCGAGGATGTTTCATCCTTCAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:310/2 length=150
+CAGTGAGCGAATCGCAAGGCGTTGTCGCAAGCATCGTCTGAGAACCGAGGTAACGAACTGACTGCGGATTCAAGGCAGGCACTCAACGGTAGGATTTTAAGGTCCACAGATGTGGGAATGAAGAACTCCATAGAAGATAATGATGGAAAC
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:311/2 length=150
+GATAATGATGGAAACTGTAATCACAGCTACTTGGGAGGCTGAGGCAGGAGAATCCTTGAACCCAGGAAGCAGAGGTCGCAGTGAGCCGAGATCATGCCATTGTGACAGTAGAGAAACAAGTCTGTGGTATTCTGTTACAGCAGCAAAAAG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:312/2 length=150
+ACAGCAGCAAAAAGCAGACTGAGACAGTTGGTCTTCAGAGAGCAGACCTTTTCATATTCGAGGATATTTCATCCTACAGGGATACTTCTCTTATTTTCTCCAAGAGTGGGCGTATCGCATGGCGGTGTGGCAAGCATCGTCTGAGAACAA
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@simulate:313/2 length=150
+CCATTGTGACAGAAGAGAAACAAGTCTGTGGGATTCTGTTGCAGCAGCAAAAAGCAGACTGAGACAGGTGGTCTTCAGAGAGCAGACCTTTTCATATTCGAGGACATTTCATCCTTCAGGGATACTTCTCTTATTTTCTCCAAGAGTGGG
++
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
