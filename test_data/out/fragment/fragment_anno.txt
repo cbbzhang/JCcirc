@@ -1,0 +1,32 @@
+chr1:155767|168165	155767-155831/16	simulate:228,simulate:221,simulate:236,simulate:232,simulate:204,simulate:214,simulate:218,simulate:223,simulate:229,a20;7,simulate:205,simulate:215,simulate:233,simulate:209,
+chr1:155767|168165	164263-164791/25	simulate:206,simulate:220,simulate:204,simulate:234,simulate:223,a20;7,simulate:214,a26;7,simulate:235,simulate:224,simulate:210,simulate:215,simulate:236,simulate:205,simulate:229,simulate:232,simulate:221,simulate:218,simulate:209,simulate:233,simulate:228,
+chr1:155767|168165	165884-165942/16	simulate:228,simulate:209,simulate:210,simulate:220,simulate:224,simulate:206,simulate:235,simulate:229,simulate:232,simulate:233,a20;7,a26;7,simulate:205,simulate:234,simulate:236,simulate:221,
+chr1:155767|168165	168100-168165/23	simulate:204,simulate:218,simulate:229,simulate:233,simulate:236,simulate:205,simulate:206,simulate:209,simulate:210,simulate:215,simulate:220,simulate:221,simulate:224,simulate:228,simulate:232,simulate:234,simulate:235,a20;7,a26;7,simulate:214,
+chr1:112700|120932	112700-112804/34	simulate:201,simulate:197,simulate:180,simulate:179,simulate:185,simulate:187,simulate:188,simulate:189,simulate:196,simulate:199,simulate:190,simulate:186,simulate:184,simulate:193,simulate:183,simulate:195,a7;12,simulate:191,simulate:200,simulate:192,simulate:178,simulate:194,
+chr1:112700|120932	120721-120932/46	a7;12,simulate:187,simulate:178,simulate:180,simulate:195,simulate:192,simulate:190,simulate:188,simulate:199,simulate:191,simulate:185,simulate:193,simulate:196,simulate:200,simulate:183,simulate:184,simulate:194,simulate:186,simulate:202,simulate:189,simulate:201,simulate:179,simulate:197,
+chr1:784370|804222	784371-784496/9	a6;16,simulate:111,simulate:106,simulate:107,simulate:113,simulate:104,simulate:108,simulate:109,
+chr1:784370|804222	803566-803667/1	a6;16,
+chr1:784370|804222	803917-804065/4	a24;26,simulate:108,simulate:106,a5;29,
+chr1:784370|804222	803930-804079/1	simulate:111,
+chr1:784370|804222	803948-804105/4	simulate:107,simulate:113,simulate:109,simulate:104,
+chr1:784370|804222	803990-804223/9	simulate:109,a24;26,a5;29,simulate:108,simulate:104,simulate:113,simulate:107,simulate:106,simulate:111,
+chr1:829003|852094	829003-829104/25	simulate:57,simulate:58,simulate:46,simulate:48,simulate:49,simulate:51,simulate:53,simulate:47,simulate:61,simulate:52,simulate:59,simulate:55,simulate:60,simulate:50,
+chr1:829003|852094	841198-841373/1	a38;13,
+chr1:829003|852094	851927-852094/29	simulate:58,simulate:61,a38;13,simulate:52,simulate:50,simulate:48,simulate:47,simulate:60,simulate:57,simulate:59,simulate:46,simulate:55,simulate:53,simulate:51,simulate:49,
+chr1:784370|803667	784370-784493/30	simulate:30,simulate:28,simulate:33,a6;16,simulate:25,simulate:39,simulate:41,simulate:37,simulate:32,simulate:27,simulate:29,simulate:34,simulate:36,simulate:35,simulate:40,simulate:38,
+chr1:784370|803667	803567-803667/25	simulate:40,simulate:38,simulate:30,simulate:27,simulate:29,simulate:33,simulate:41,a6;16,simulate:35,simulate:34,simulate:36,simulate:25,simulate:28,simulate:32,
+chr1:784396|804222	784396-784493/27	simulate:130,simulate:117,a6;16,simulate:123,simulate:141,simulate:150,simulate:162,a13;17,simulate:129,simulate:140,simulate:144,simulate:158,simulate:160,simulate:135,simulate:124,simulate:133,simulate:125,simulate:127,simulate:145,simulate:122,simulate:128,simulate:149,
+chr1:784396|804222	792882-793041/13	simulate:160,a13;17,simulate:158,simulate:140,simulate:149,simulate:124,simulate:128,simulate:130,simulate:133,simulate:150,simulate:144,simulate:117,simulate:125,
+chr1:784396|804222	803591-803667/3	simulate:122,simulate:135,simulate:145,
+chr1:784396|804222	803951-804042/4	simulate:145,simulate:122,simulate:135,simulate:141,
+chr1:784396|804222	803917-804065/1	a24;26,
+chr1:784396|804222	803951-804222/26	a24;26,simulate:127,simulate:150,simulate:129,simulate:162,simulate:123,simulate:149,simulate:128,simulate:122,simulate:145,simulate:125,simulate:124,simulate:133,simulate:135,simulate:160,simulate:158,simulate:144,simulate:140,simulate:130,simulate:117,simulate:141,
+chr1:803919|804840	803919-804222/66	simulate:272,simulate:270,simulate:240,simulate:260,simulate:257,simulate:268,simulate:273,simulate:247,simulate:258,simulate:274,simulate:241,simulate:242,simulate:267,simulate:253,a24;26,simulate:271,simulate:245,simulate:256,simulate:249,simulate:243,simulate:244,simulate:254,a5;29,simulate:265,simulate:246,simulate:250,simulate:251,simulate:255,simulate:248,
+chr1:803919|804840	804776-804840/33	simulate:271,simulate:250,simulate:246,simulate:248,simulate:251,simulate:253,simulate:256,simulate:257,simulate:258,simulate:267,simulate:268,simulate:270,simulatesimulate:246,
+chr1:841200|852110	841200-841373/29	
+chr1:841200|852110	847654-847806/11	
+chr1:841200|852110	849484-849603/1	
+chr1:841200|852110	851927-852110/31	
+chr1:829003|849602	829003-829104/30	
+chr1:829003|849602	847654-847806/20	
+chr1:829003|849602	849484-849602/24	
