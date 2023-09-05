@@ -30,7 +30,7 @@ JCcirc v1.0.0 (circRNA assembler through integrated junction contigs) is a compu
 
 ```bash
 Command:
-    perl JCcirc.pl -C circ -G genome -F annotation -O out_dir -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa
+    perl JCcirc.pl -C circ -G genome -F annotation -O out_dir -P 8 --read1 read_1.fq --read2 read_2.fq --contig contig.fa -D 0
 Arguments:
 
     -C, --circ
@@ -51,13 +51,16 @@ Arguments:
           RNA-Seq data, read_2 paired-end, fastq format).
     --contig
           contig sequences (required).
+    -D, --difference
+          the difference in support numbers between adjacent fragments when generating circRNA isoforms, default is 0 (recommend setting to 0, 1, or 2, the larger number means stricter).
     -H, --help
           show this help information.
 ```
 		  
 # 4. Note
 > * The RNA-seq data should be paired-end, and the same file when running de novo assembly.<br>
-> * The GTF annotation file should be the same one when running JCcirc and its upstream software. <br> 
+> * The GTF annotation file should be the same one when running JCcirc and its upstream software. <br>
+> * Parameter difference|D recommend setting to 0, 1, or 2. If the intron length in the genome is short, set a large D value. For example, human data can be set to 0, and plant data can be set to 2.
 
 # 5. Output file
 > * Two columns of fragment_final.txt (split by tabs)<br>
