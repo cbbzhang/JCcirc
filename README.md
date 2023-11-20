@@ -71,6 +71,6 @@ Arguments:
 > * circ_full_seq.fa is the assembly result of circRNA full-length sequences.
 
 # 6. Reference
-[JCcirc: circRNA full-length sequence assembly through integrated junction contigs](https://academic.oup.com/bib/article-abstract/24/6/bbad363/7313456)
+[Zhang J, Zhang H, Ju Z, Peng Y, Pan Y, Xi W, Wei Y. JCcirc: circRNA full-length sequence assembly through integrated junction contigs. Brief Bioinform. 2023 Sep 22;24(6):bbad363.](https://academic.oup.com/bib/article-abstract/24/6/bbad363/7313456)
 # 7. Contact
 	Please contact Jingjing Zhang (zhangjj@siat.ac.cn) for questions and comments.
