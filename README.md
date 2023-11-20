@@ -3,7 +3,7 @@
 # 1. Introduction
 **JCcirc v1.0.0** (circRNA assembler through integrated junction contigs) is a computational tool that utilizes both back-splice junction (BSJ) and junction contig (JC) features to reconstruct full-length sequences of circular RNAs from RNA-seq datasets. JCcirc integrates junction reads and junction contigs for the assembly of all circRNAs. The BSJ feature is employed to accurately determine the boundaries of circRNAs, while the JC feature acts as an extension of junction reads, exhibiting superior performance in assembling circRNAs with low expression levels.
 ![Figure 6](https://github.com/cbbzhang/JCcirc/assets/38315099/6fd54d85-52dd-4f06-bb13-b975ae42ebd3)
-<center>Workflow of JCcirc
+<center>Workflow of JCcirc</center>
 	
 # 2. Prerequisites
 > ### Software Prerequisites:
