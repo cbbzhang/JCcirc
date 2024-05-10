@@ -35,7 +35,7 @@ Command:
 Arguments:
 
     -C, --circ
-          input circRNA file, which includes chromosome, start site, end site, host gene, and junction reads ID (required).
+          input circRNA file, which includes chromosome, start site, end site, host gene, strand, and junction reads ID (required).
     -O, --output
           directory of output (required).
     -G, --genome
