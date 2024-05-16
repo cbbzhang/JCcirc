@@ -839,7 +839,7 @@ Arguments:
       my $circ_strand = $circ_info[3];
       my $circ_id = $circ_chr.":".$circ_start."|".$circ_end;
       my $circ_name = $circ_chr."_".$circ_start."_".$circ_end;
-      my $circ_seq = substr( $genome{$circ_chr}, $circ_start, $circ_end - $circ_start + 1 );
+      my $circ_seq = substr( $genome{$circ_chr}, $circ_start - 1, $circ_end - $circ_start + 1 );
       my $circ_seq2 = $circ_seq.$circ_seq;
       $circ_seq2 = &comp_rev($circ_seq2) if $circ_strand =~ /-/;
       my $circ_info_seq = ">" . $circ_id . "\n" . $circ_seq2 . "\n";
